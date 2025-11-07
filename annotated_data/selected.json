@@ -1,0 +1,7512 @@
+[
+    {
+        "characters": [
+            {
+                "character": "子",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "曰",
+                "okurigana": "く",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "、",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "閨",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "門",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "之",
+                "okurigana": "",
+                "particle": "Dの",
+                "position": ""
+            },
+            {
+                "character": "内",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "、",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "具",
+                "okurigana": "うる",
+                "particle": "",
+                "position": "レ"
+            },
+            {
+                "character": "礼",
+                "okurigana": "",
+                "particle": "を",
+                "position": ""
+            },
+            {
+                "character": "矣",
+                "okurigana": "",
+                "particle": "D",
+                "position": "レ"
+            },
+            {
+                "character": "乎",
+                "okurigana": "",
+                "particle": "Dかな",
+                "position": ""
+            },
+            {
+                "character": "。",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            }
+        ],
+        "japanese_translation": "子曰く、閨門の内、礼を具うるかな。",
+        "japanese": "子曰、閨門之内、具礼矣乎。",
+        "traditional_chinese": "子曰、閨門之內、具禮矣乎。",
+        "simplified_chinese": "子曰、闺门之内、具礼矣乎。",
+        "segmentation": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "partofspeech": [
+            "NOUN",
+            "VERB",
+            "PUNCT",
+            "NOUN",
+            "NOUN",
+            "SCONJ",
+            "NOUN",
+            "PUNCT",
+            "VERB",
+            "NOUN",
+            "PART",
+            "PART",
+            "PUNCT"
+        ],
+        "dependencyarc": [
+            "0010000",
+            "1011100",
+            "1000000",
+            "0010000",
+            "0000100",
+            "1010000",
+            "0011000",
+            "0000000",
+            "1001100",
+            "1000000",
+            "1000000",
+            "1010000",
+            "1010000"
+        ],
+        "dependencytype": [
+            "nsubj",
+            "root",
+            "advmod",
+            "nmod",
+            "nmod",
+            "case",
+            "nsubj",
+            "advmod",
+            "ccomp",
+            "obj",
+            "discourse:sp",
+            "discourse:sp",
+            "discourse:sp"
+        ]
+    },
+    {
+        "characters": [
+            {
+                "character": "以",
+                "okurigana": "",
+                "particle": "て",
+                "position": "二"
+            },
+            {
+                "character": "有",
+                "okurigana": "",
+                "particle": "る",
+                "position": "レ"
+            },
+            {
+                "character": "限",
+                "okurigana": "り",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "之",
+                "okurigana": "",
+                "particle": "Dの",
+                "position": ""
+            },
+            {
+                "character": "才",
+                "okurigana": "",
+                "particle": "を",
+                "position": "一"
+            },
+            {
+                "character": "、",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "追",
+                "okurigana": "え",
+                "particle": "ば",
+                "position": "二"
+            },
+            {
+                "character": "無",
+                "okurigana": "き",
+                "particle": "",
+                "position": "レ"
+            },
+            {
+                "character": "窮",
+                "okurigana": "まり",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "之",
+                "okurigana": "",
+                "particle": "Dの",
+                "position": ""
+            },
+            {
+                "character": "意",
+                "okurigana": "",
+                "particle": "を",
+                "position": "一"
+            },
+            {
+                "character": "、",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "雖",
+                "okurigana": "",
+                "particle": "も",
+                "position": "二"
+            },
+            {
+                "character": "淵",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "明",
+                "okurigana": "",
+                "particle": "・",
+                "position": ""
+            },
+            {
+                "character": "少",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "陵",
+                "okurigana": "",
+                "particle": "と",
+                "position": "一"
+            },
+            {
+                "character": "、",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "不",
+                "okurigana": "",
+                "particle": "DざKる",
+                "position": "レ"
+            },
+            {
+                "character": "得",
+                "okurigana": "",
+                "particle": "",
+                "position": "レ"
+            },
+            {
+                "character": "工",
+                "okurigana": "み",
+                "particle": "を",
+                "position": ""
+            },
+            {
+                "character": "也",
+                "okurigana": "",
+                "particle": "Dなり",
+                "position": ""
+            },
+            {
+                "character": "。",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            }
+        ],
+        "japanese_translation": "限り有るの才を以て、窮まり無きの意を追えば、淵明・少陵と雖も、工みなるを得ざるなり。",
+        "japanese": "以有限之才、追無窮之意、雖淵明少陵、不得工也。",
+        "traditional_chinese": "以有限之纔、追無窮之意、雖淵明少陵、不得工也。",
+        "simplified_chinese": "以有限之才、追无穷之意、虽渊明少陵、不得工也。",
+        "segmentation": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "I",
+            "B",
+            "I",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "partofspeech": [
+            "VERB",
+            "VERB",
+            "VERB",
+            "SCONJ",
+            "NOUN",
+            "PUNCT",
+            "VERB",
+            "VERB",
+            "VERB",
+            "SCONJ",
+            "NOUN",
+            "PUNCT",
+            "ADV",
+            "PROPN",
+            "continue",
+            "PROPN",
+            "continue",
+            "PUNCT",
+            "ADV",
+            "AUX",
+            "VERB",
+            "PART",
+            "PUNCT"
+        ],
+        "dependencyarc": [
+            "0010100",
+            "0010101",
+            "1010100",
+            "1010000",
+            "1001000",
+            "1010000",
+            "1110100",
+            "0010000",
+            "0011100",
+            "1010000",
+            "1011000",
+            "0000000",
+            "0000000",
+            "0000100",
+            "continue",
+            "1010000",
+            "continue",
+            "0000000",
+            "0010000",
+            "0001000",
+            "1011100",
+            "1000000",
+            "1010000"
+        ],
+        "dependencytype": [
+            "advcl",
+            "acl",
+            "obj",
+            "case",
+            "obj",
+            "discourse:sp",
+            "conj",
+            "advmod",
+            "amod",
+            "case",
+            "obj",
+            "dislocated",
+            "advmod",
+            "nsubj",
+            "continue",
+            "conj",
+            "continue",
+            "cc",
+            "advmod",
+            "aux",
+            "root",
+            "discourse:sp",
+            "nsubj"
+        ]
+    },
+    {
+        "characters": [
+            {
+                "character": "太",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "公",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "曰",
+                "okurigana": "",
+                "particle": "く",
+                "position": ""
+            },
+            {
+                "character": "、",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "兵",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "勝",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "之",
+                "okurigana": "",
+                "particle": "Dの",
+                "position": ""
+            },
+            {
+                "character": "術",
+                "okurigana": "",
+                "particle": "は",
+                "position": ""
+            },
+            {
+                "character": "、",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "密",
+                "okurigana": "か",
+                "particle": "に",
+                "position": ""
+            },
+            {
+                "character": "察",
+                "okurigana": "",
+                "particle": "",
+                "position": "二"
+            },
+            {
+                "character": "敵",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "人",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "之",
+                "okurigana": "",
+                "particle": "Dの",
+                "position": ""
+            },
+            {
+                "character": "機",
+                "okurigana": "",
+                "particle": "を",
+                "position": "一"
+            },
+            {
+                "character": "、",
+                "okurigana": "",
+                "particle": "",
+                "position": "レ"
+            },
+            {
+                "character": "而",
+                "okurigana": "し",
+                "particle": "DBて",
+                "position": ""
+            },
+            {
+                "character": "速",
+                "okurigana": "やか",
+                "particle": "に",
+                "position": ""
+            },
+            {
+                "character": "乗",
+                "okurigana": "じ",
+                "particle": "",
+                "position": "二"
+            },
+            {
+                "character": "其",
+                "okurigana": "の",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "利",
+                "okurigana": "",
+                "particle": "に",
+                "position": "一"
+            },
+            {
+                "character": "、",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "復",
+                "okurigana": "た",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "疾",
+                "okurigana": "く",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "撃",
+                "okurigana": "つ",
+                "particle": "",
+                "position": "二"
+            },
+            {
+                "character": "其",
+                "okurigana": "の",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "不",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "意",
+                "okurigana": "",
+                "particle": "を",
+                "position": "一"
+            },
+            {
+                "character": "。",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            }
+        ],
+        "japanese_translation": "太公曰く、兵勝の術は、密かに敵人の機を察して、速やかに其の利に乗じ、復た疾く其の不意を撃つ。",
+        "japanese": "太公曰、兵勝之術、密察敵人之機、而速乗其利、復疾撃其不意。",
+        "traditional_chinese": "太公曰、兵勝之術、密察敵人之機、而速乘其利、復疾擊其不意。",
+        "simplified_chinese": "太公曰、兵胜之术、密察敌人之机、而速乘其利、复疾击其不意。",
+        "segmentation": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "partofspeech": [
+            "PROPN",
+            "NOUN",
+            "VERB",
+            "PUNCT",
+            "NOUN",
+            "VERB",
+            "SCONJ",
+            "NOUN",
+            "PUNCT",
+            "ADV",
+            "VERB",
+            "NOUN",
+            "NOUN",
+            "SCONJ",
+            "NOUN",
+            "PUNCT",
+            "CCONJ",
+            "ADV",
+            "VERB",
+            "PRON",
+            "NOUN",
+            "PUNCT",
+            "ADV",
+            "ADV",
+            "VERB",
+            "PRON",
+            "ADV",
+            "VERB",
+            "PUNCT"
+        ],
+        "dependencyarc": [
+            "0010000",
+            "0111000",
+            "1010100",
+            "0010000",
+            "0010000",
+            "0011100",
+            "1010000",
+            "0001000",
+            "0000000",
+            "0000000",
+            "1011110",
+            "0010000",
+            "0011100",
+            "1010000",
+            "1001000",
+            "1000000",
+            "1000000",
+            "0110000",
+            "1000101",
+            "0010000",
+            "1011000",
+            "1000000",
+            "0010000",
+            "0000000",
+            "1111110",
+            "0010000",
+            "0000000",
+            "1011000",
+            "1010000"
+        ],
+        "dependencytype": [
+            "compound",
+            "nsubj",
+            "root",
+            "advmod",
+            "nsubj",
+            "acl",
+            "mark",
+            "nsubj",
+            "advmod",
+            "advmod",
+            "ccomp",
+            "nmod",
+            "nmod",
+            "case",
+            "obj",
+            "discourse:sp",
+            "advmod",
+            "advmod",
+            "conj",
+            "det",
+            "obj",
+            "discourse:sp",
+            "advmod",
+            "advmod",
+            "parataxis",
+            "nsubj",
+            "advmod",
+            "ccomp",
+            "obl:lmod"
+        ]
+    },
+    {
+        "characters": [
+            {
+                "character": "説",
+                "okurigana": "く",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "者",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "能",
+                "okurigana": "く",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "無",
+                "okurigana": "",
+                "particle": "くんば",
+                "position": "レ"
+            },
+            {
+                "character": "嬰",
+                "okurigana": "",
+                "particle": "るる",
+                "position": "二"
+            },
+            {
+                "character": "人",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "主",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "之",
+                "okurigana": "",
+                "particle": "Dの",
+                "position": ""
+            },
+            {
+                "character": "逆",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "鱗",
+                "okurigana": "",
+                "particle": "に",
+                "position": "一"
+            },
+            {
+                "character": "、",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "則",
+                "okurigana": "ち",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "幾",
+                "okurigana": "し",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "矣",
+                "okurigana": "",
+                "particle": "D",
+                "position": ""
+            },
+            {
+                "character": "。",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            }
+        ],
+        "japanese_translation": "説く者能く人主の逆鱗に嬰るること無くんば、則ち幾し。",
+        "japanese": "説者能無嬰人主之逆鱗、則幾矣。",
+        "traditional_chinese": "說者能無嬰人主之逆鱗、則幾矣。",
+        "simplified_chinese": "说者能无婴人主之逆鳞、则几矣。",
+        "segmentation": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "partofspeech": [
+            "VERB",
+            "PART",
+            "AUX",
+            "ADV",
+            "VERB",
+            "NOUN",
+            "NOUN",
+            "SCONJ",
+            "VERB",
+            "NOUN",
+            "PUNCT",
+            "ADV",
+            "ADV",
+            "PART",
+            "PUNCT"
+        ],
+        "dependencyarc": [
+            "0010000",
+            "0011000",
+            "0000000",
+            "0000000",
+            "1011100",
+            "0010000",
+            "0011100",
+            "1010000",
+            "0000000",
+            "1001000",
+            "1000000",
+            "0010000",
+            "1001100",
+            "1010000",
+            "1010000"
+        ],
+        "dependencytype": [
+            "amod",
+            "nsubj",
+            "aux",
+            "advmod",
+            "root",
+            "nmod",
+            "nmod",
+            "case",
+            "amod",
+            "obj",
+            "discourse:sp",
+            "advmod",
+            "advmod",
+            "discourse:sp",
+            "discourse:sp"
+        ]
+    },
+    {
+        "characters": [
+            {
+                "character": "子",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "曰",
+                "okurigana": "",
+                "particle": "く",
+                "position": ""
+            },
+            {
+                "character": "、",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "志",
+                "okurigana": "し",
+                "particle": "",
+                "position": "レ"
+            },
+            {
+                "character": "於",
+                "okurigana": "",
+                "particle": "DBに",
+                "position": "レ"
+            },
+            {
+                "character": "道",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "、",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "拠",
+                "okurigana": "り",
+                "particle": "",
+                "position": "レ"
+            },
+            {
+                "character": "於",
+                "okurigana": "",
+                "particle": "DBに",
+                "position": "レ"
+            },
+            {
+                "character": "徳",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "、",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "依",
+                "okurigana": "り",
+                "particle": "",
+                "position": "レ"
+            },
+            {
+                "character": "於",
+                "okurigana": "",
+                "particle": "DBに",
+                "position": "レ"
+            },
+            {
+                "character": "仁",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "、",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "游",
+                "okurigana": "ぶ",
+                "particle": "",
+                "position": "レ"
+            },
+            {
+                "character": "於",
+                "okurigana": "",
+                "particle": "DBに",
+                "position": "レ"
+            },
+            {
+                "character": "芸",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "。",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            }
+        ],
+        "japanese_translation": "子曰く、道に志し、徳に拠り、仁に依り、芸に游ぶ。",
+        "japanese": "子曰、志於道、拠於徳、依於仁、游於芸。",
+        "traditional_chinese": "子曰、志於道、據於德、依於仁、游於藝。",
+        "simplified_chinese": "子曰、志于道、据于德、依于仁、游于艺。",
+        "segmentation": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "partofspeech": [
+            "NOUN",
+            "VERB",
+            "PUNCT",
+            "VERB",
+            "ADP",
+            "NOUN",
+            "PUNCT",
+            "VERB",
+            "ADP",
+            "NOUN",
+            "PUNCT",
+            "VERB",
+            "ADP",
+            "NOUN",
+            "PUNCT",
+            "VERB",
+            "ADP",
+            "NOUN",
+            "PUNCT"
+        ],
+        "dependencyarc": [
+            "0010000",
+            "1011100",
+            "1000000",
+            "1000100",
+            "0010000",
+            "1011000",
+            "1000000",
+            "1000100",
+            "0010000",
+            "1011000",
+            "1000000",
+            "1000000",
+            "0110000",
+            "0110000",
+            "1000000",
+            "1000110",
+            "0010000",
+            "1011010",
+            "1010000"
+        ],
+        "dependencytype": [
+            "nsubj",
+            "root",
+            "nsubj",
+            "csubj",
+            "case",
+            "obl",
+            "advmod",
+            "conj",
+            "case",
+            "obl",
+            "advmod",
+            "conj",
+            "case",
+            "obl",
+            "advmod",
+            "conj",
+            "case",
+            "obl",
+            "advcl"
+        ]
+    },
+    {
+        "characters": [
+            {
+                "character": "敵",
+                "okurigana": "",
+                "particle": "の",
+                "position": ""
+            },
+            {
+                "character": "所",
+                "okurigana": "",
+                "particle": "の",
+                "position": "二"
+            },
+            {
+                "character": "能",
+                "okurigana": "く",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "陵",
+                "okurigana": "",
+                "particle": "ぐ",
+                "position": "一"
+            },
+            {
+                "character": "者",
+                "okurigana": "",
+                "particle": "は",
+                "position": ""
+            },
+            {
+                "character": "、",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "兵",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "備",
+                "okurigana": "え",
+                "particle": "",
+                "position": "二"
+            },
+            {
+                "character": "其",
+                "okurigana": "の",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "表",
+                "okurigana": "",
+                "particle": "に",
+                "position": "一"
+            },
+            {
+                "character": "、",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "衢",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "道",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "通",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "谷",
+                "okurigana": "",
+                "particle": "は",
+                "position": ""
+            },
+            {
+                "character": "、",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "絶",
+                "okurigana": "つ",
+                "particle": "に",
+                "position": ""
+            },
+            {
+                "character": "以",
+                "okurigana": "",
+                "particle": "てし",
+                "position": "二"
+            },
+            {
+                "character": "武",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "車",
+                "okurigana": "",
+                "particle": "を",
+                "position": "一"
+            },
+            {
+                "character": "、",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "高",
+                "okurigana": "く",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "置",
+                "okurigana": "き",
+                "particle": "",
+                "position": "二"
+            },
+            {
+                "character": "旌",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "旗",
+                "okurigana": "",
+                "particle": "を",
+                "position": "一"
+            },
+            {
+                "character": "、",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "謹",
+                "okurigana": "ん",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "勅",
+                "okurigana": "し",
+                "particle": "",
+                "position": "二"
+            },
+            {
+                "character": "三",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "軍",
+                "okurigana": "",
+                "particle": "に",
+                "position": "一"
+            },
+            {
+                "character": "、",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "無",
+                "okurigana": "",
+                "particle": "かれ",
+                "position": "レ"
+            },
+            {
+                "character": "使",
+                "okurigana": "しむ",
+                "particle": "こと",
+                "position": "三"
+            },
+            {
+                "character": "敵",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "人",
+                "okurigana": "して",
+                "particle": "を",
+                "position": ""
+            },
+            {
+                "character": "知",
+                "okurigana": "ら",
+                "particle": "",
+                "position": "二"
+            },
+            {
+                "character": "吾",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "之",
+                "okurigana": "",
+                "particle": "Dの",
+                "position": ""
+            },
+            {
+                "character": "情",
+                "okurigana": "",
+                "particle": "を",
+                "position": "一"
+            },
+            {
+                "character": "。",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            }
+        ],
+        "japanese_translation": "敵の能く陵ぐ所の者は、兵其の表に備え、衢道通谷は、絶つに武車を以てし、高く旌旗を置き、謹んで三軍に勅し、敵人をして吾の情を知らしむること無かれ。",
+        "japanese": "敵所能陵者、兵備其表、衢道通谷、絶以武車、高置旌旗、謹勅三軍、無使敵人知吾之情。",
+        "traditional_chinese": "敵所能陵者、兵備其表、衢道通谷、絕以武車、高置旌旗、謹敕三軍、無使敵人知吾之情。",
+        "simplified_chinese": "敌所能陵者、兵备其表、衢道通谷、绝以武车、高置旌旗、谨敕三军、无使敌人知吾之情。",
+        "segmentation": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "partofspeech": [
+            "NOUN",
+            "PART",
+            "AUX",
+            "VERB",
+            "PART",
+            "PUNCT",
+            "NOUN",
+            "VERB",
+            "PRON",
+            "NOUN",
+            "PUNCT",
+            "VERB",
+            "NOUN",
+            "VERB",
+            "NOUN",
+            "PUNCT",
+            "VERB",
+            "VERB",
+            "VERB",
+            "NOUN",
+            "PUNCT",
+            "ADV",
+            "VERB",
+            "NOUN",
+            "NOUN",
+            "PUNCT",
+            "ADV",
+            "VERB",
+            "NUM",
+            "NOUN",
+            "PUNCT",
+            "ADV",
+            "VERB",
+            "NOUN",
+            "NOUN",
+            "VERB",
+            "PRON",
+            "SCONJ",
+            "NOUN",
+            "PUNCT"
+        ],
+        "dependencyarc": [
+            "0010000",
+            "0000000",
+            "0000000",
+            "0011000",
+            "0011000",
+            "0000000",
+            "0010000",
+            "0001101",
+            "0010000",
+            "1011000",
+            "0000000",
+            "0010000",
+            "1101000",
+            "0010000",
+            "0011000",
+            "0000000",
+            "0000000",
+            "0000000",
+            "0010000",
+            "1101000",
+            "0000000",
+            "0010000",
+            "1111000",
+            "0110100",
+            "1010000",
+            "0000000",
+            "0000000",
+            "0000000",
+            "0010000",
+            "0101000",
+            "0000000",
+            "0000000",
+            "1011100",
+            "0010000",
+            "1001000",
+            "1001110",
+            "0010100",
+            "1010000",
+            "1011000",
+            "1010000"
+        ],
+        "dependencytype": [
+            "nsubj",
+            "mark",
+            "aux",
+            "acl",
+            "nsubj",
+            "mark",
+            "nsubj",
+            "xcomp",
+            "det",
+            "obj",
+            "mark",
+            "conj",
+            "iobj",
+            "amod",
+            "obj",
+            "discourse:sp",
+            "xcomp",
+            "xcomp",
+            "amod",
+            "obj",
+            "dislocated",
+            "advmod",
+            "conj",
+            "obj",
+            "conj",
+            "discourse:sp",
+            "advmod",
+            "xcomp",
+            "nummod",
+            "obj",
+            "discourse:sp",
+            "advmod",
+            "root",
+            "nmod",
+            "obj",
+            "xcomp",
+            "det",
+            "case",
+            "obj",
+            "dislocated"
+        ]
+    },
+    {
+        "characters": [
+            {
+                "character": "嗚",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "呼",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "、",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "神",
+                "okurigana": "",
+                "particle": "なる",
+                "position": ""
+            },
+            {
+                "character": "哉",
+                "okurigana": "",
+                "particle": "Dかな",
+                "position": ""
+            },
+            {
+                "character": "。",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            }
+        ],
+        "japanese_translation": "嗚呼、神なるかな。",
+        "japanese": "嗚呼、神哉。",
+        "traditional_chinese": "嗚呼、神哉。",
+        "simplified_chinese": "呜呼、神哉。",
+        "segmentation": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "partofspeech": [
+            "INTJ",
+            "INTJ",
+            "PUNCT",
+            "NOUN",
+            "PART",
+            "PUNCT"
+        ],
+        "dependencyarc": [
+            "0010000",
+            "0000000",
+            "0000000",
+            "1011100",
+            "1000000",
+            "1010000"
+        ],
+        "dependencytype": [
+            "discourse",
+            "discourse",
+            "discourse:sp",
+            "root",
+            "discourse:sp",
+            "advcl"
+        ]
+    },
+    {
+        "characters": [
+            {
+                "character": "誤",
+                "okurigana": "",
+                "particle": "りて",
+                "position": ""
+            },
+            {
+                "character": "落",
+                "okurigana": "",
+                "particle": "ち",
+                "position": "二"
+            },
+            {
+                "character": "塵",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "網",
+                "okurigana": "",
+                "particle": "の",
+                "position": ""
+            },
+            {
+                "character": "中",
+                "okurigana": "",
+                "particle": "に",
+                "position": "一"
+            }
+        ],
+        "japanese_translation": "誤りて塵網の中に落ち",
+        "japanese": "誤落塵網中",
+        "traditional_chinese": "誤落塵網中",
+        "simplified_chinese": "误落尘网中",
+        "segmentation": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "partofspeech": [
+            "ADV",
+            "VERB",
+            "NOUN",
+            "NOUN",
+            "NOUN"
+        ],
+        "dependencyarc": [
+            "0010000",
+            "1011100",
+            "0010100",
+            "1010000",
+            "1011000"
+        ],
+        "dependencytype": [
+            "advmod",
+            "root",
+            "nmod",
+            "conj",
+            "obj"
+        ]
+    },
+    {
+        "characters": [
+            {
+                "character": "太",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "公",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "曰",
+                "okurigana": "く",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "、",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "凡",
+                "okurigana": "そ",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "用",
+                "okurigana": "うる",
+                "particle": "",
+                "position": "レ"
+            },
+            {
+                "character": "兵",
+                "okurigana": "",
+                "particle": "を",
+                "position": ""
+            },
+            {
+                "character": "之",
+                "okurigana": "",
+                "particle": "Dの",
+                "position": ""
+            },
+            {
+                "character": "法",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "、",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "三",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "軍",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "之",
+                "okurigana": "",
+                "particle": "Dの",
+                "position": ""
+            },
+            {
+                "character": "衆",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "、",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "必",
+                "okurigana": "ず",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "有",
+                "okurigana": "",
+                "particle": "り",
+                "position": "二"
+            },
+            {
+                "character": "分",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "合",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "之",
+                "okurigana": "",
+                "particle": "Dの",
+                "position": ""
+            },
+            {
+                "character": "変",
+                "okurigana": "",
+                "particle": "",
+                "position": "一"
+            },
+            {
+                "character": "。",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            }
+        ],
+        "japanese_translation": "太公曰く、凡そ兵を用うるの法、三軍の衆、必ず分合の変有り。",
+        "japanese": "太公曰、凡用兵之法、三軍之衆、必有分合之変。",
+        "traditional_chinese": "太公曰、凡用兵之法、三軍之衆、必有分合之變。",
+        "simplified_chinese": "太公曰、凡用兵之法、三军之众、必有分合之变。",
+        "segmentation": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "partofspeech": [
+            "PROPN",
+            "NOUN",
+            "VERB",
+            "PUNCT",
+            "ADV",
+            "VERB",
+            "NOUN",
+            "SCONJ",
+            "NOUN",
+            "PUNCT",
+            "NUM",
+            "NOUN",
+            "SCONJ",
+            "NOUN",
+            "PUNCT",
+            "ADV",
+            "VERB",
+            "VERB",
+            "VERB",
+            "SCONJ",
+            "VERB",
+            "PUNCT"
+        ],
+        "dependencyarc": [
+            "0010000",
+            "0011000",
+            "1011100",
+            "0010000",
+            "0010000",
+            "0011100",
+            "1000000",
+            "1010000",
+            "0001000",
+            "0000000",
+            "0010000",
+            "0011000",
+            "0110000",
+            "0001000",
+            "0000000",
+            "0000000",
+            "1011100",
+            "0010110",
+            "1000000",
+            "1010000",
+            "1001000",
+            "1010000"
+        ],
+        "dependencytype": [
+            "compound",
+            "nsubj",
+            "root",
+            "advmod",
+            "advmod",
+            "acl",
+            "obj",
+            "mark",
+            "obj",
+            "advmod",
+            "nummod",
+            "nmod",
+            "case",
+            "nsubj",
+            "csubj:outer",
+            "advmod",
+            "ccomp",
+            "nsubj",
+            "flat:vv",
+            "case",
+            "ccomp",
+            "csubj:outer"
+        ]
+    },
+    {
+        "characters": [
+            {
+                "character": "太",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "公",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "曰",
+                "okurigana": "",
+                "particle": "く",
+                "position": ""
+            },
+            {
+                "character": "、",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "腹",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "心",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "一",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "人",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "、",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "主",
+                "okurigana": "る",
+                "particle": "",
+                "position": "三"
+            },
+            {
+                "character": "賛",
+                "okurigana": "け",
+                "particle": "",
+                "position": "レ"
+            },
+            {
+                "character": "謀",
+                "okurigana": "",
+                "particle": "を",
+                "position": ""
+            },
+            {
+                "character": "応",
+                "okurigana": "",
+                "particle": "じ",
+                "position": "レ"
+            },
+            {
+                "character": "卒",
+                "okurigana": "",
+                "particle": "に",
+                "position": ""
+            },
+            {
+                "character": "、",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "揆",
+                "okurigana": "り",
+                "particle": "",
+                "position": "レ"
+            },
+            {
+                "character": "天",
+                "okurigana": "",
+                "particle": "を",
+                "position": ""
+            },
+            {
+                "character": "消",
+                "okurigana": "し",
+                "particle": "",
+                "position": "レ"
+            },
+            {
+                "character": "変",
+                "okurigana": "",
+                "particle": "を",
+                "position": ""
+            },
+            {
+                "character": "、",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "総",
+                "okurigana": "",
+                "particle": "",
+                "position": "下-"
+            },
+            {
+                "character": "攬",
+                "okurigana": "し",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "計",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "謀",
+                "okurigana": "",
+                "particle": "を",
+                "position": "上"
+            },
+            {
+                "character": "、",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "保",
+                "okurigana": "",
+                "particle": "",
+                "position": "二-"
+            },
+            {
+                "character": "全",
+                "okurigana": "する",
+                "particle": "を",
+                "position": ""
+            },
+            {
+                "character": "民",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "命",
+                "okurigana": "",
+                "particle": "を",
+                "position": "一"
+            },
+            {
+                "character": "。",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            }
+        ],
+        "japanese_translation": "太公曰く、腹心一人、謀を賛け卒に応じ、天を揆り変を消し、計謀を総攬し、民命を保全するを主る。",
+        "japanese": "太公曰、腹心一人、主賛謀応卒、揆天消変、総攬計謀、保全民命。",
+        "traditional_chinese": "太公曰、腹心一人、主贊謀應卒、揆天消變、總攬計謀、保全民命。",
+        "simplified_chinese": "太公曰、腹心一人、主赞谋应卒、揆天消变、总揽计谋、保全民命。",
+        "segmentation": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "partofspeech": [
+            "PROPN",
+            "NOUN",
+            "VERB",
+            "PUNCT",
+            "NOUN",
+            "NOUN",
+            "NUM",
+            "NOUN",
+            "PUNCT",
+            "NOUN",
+            "VERB",
+            "VERB",
+            "VERB",
+            "NOUN",
+            "PUNCT",
+            "VERB",
+            "NOUN",
+            "VERB",
+            "VERB",
+            "PUNCT",
+            "ADV",
+            "VERB",
+            "NOUN",
+            "NOUN",
+            "PUNCT",
+            "VERB",
+            "VERB",
+            "NOUN",
+            "NOUN",
+            "PUNCT"
+        ],
+        "dependencyarc": [
+            "0010000",
+            "0011000",
+            "1011100",
+            "0010000",
+            "0010000",
+            "0001000",
+            "0110100",
+            "1010000",
+            "0000000",
+            "0000010",
+            "1011100",
+            "1000000",
+            "1000000",
+            "0010000",
+            "1000000",
+            "1000001",
+            "0000000",
+            "1001101",
+            "1010000",
+            "1000000",
+            "0010000",
+            "1000000",
+            "0010000",
+            "1110000",
+            "1000000",
+            "1111100",
+            "1000000",
+            "0000000",
+            "1011000",
+            "1010000"
+        ],
+        "dependencytype": [
+            "compound",
+            "nsubj",
+            "root",
+            "discourse:sp",
+            "nmod",
+            "nsubj",
+            "nummod",
+            "clf",
+            "nsubj:outer",
+            "nsubj",
+            "csubj",
+            "obj",
+            "parataxis",
+            "obj",
+            "discourse:sp",
+            "conj",
+            "nsubj",
+            "conj",
+            "flat:vv",
+            "discourse:sp",
+            "advmod",
+            "flat:vv",
+            "nmod",
+            "obj",
+            "discourse:sp",
+            "parataxis",
+            "flat:vv",
+            "nmod",
+            "obj",
+            "discourse:sp"
+        ]
+    },
+    {
+        "characters": [
+            {
+                "character": "宜",
+                "okurigana": "",
+                "particle": "しくSべKし",
+                "position": "二"
+            },
+            {
+                "character": "深",
+                "okurigana": "く",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "剋",
+                "okurigana": "ち",
+                "particle": "て",
+                "position": "レ"
+            },
+            {
+                "character": "己",
+                "okurigana": "",
+                "particle": "に",
+                "position": ""
+            },
+            {
+                "character": "反",
+                "okurigana": "る",
+                "particle": "",
+                "position": "一レ"
+            },
+            {
+                "character": "善",
+                "okurigana": "",
+                "particle": "に",
+                "position": ""
+            },
+            {
+                "character": "。",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            }
+        ],
+        "japanese_translation": "宜しく深く己に剋ちて善に反るべし。",
+        "japanese": "宜深剋己反善。",
+        "traditional_chinese": "宜深剋己反善。",
+        "simplified_chinese": "宜深克己反善。",
+        "segmentation": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "partofspeech": [
+            "AUX",
+            "ADV",
+            "VERB",
+            "PRON",
+            "VERB",
+            "NOUN",
+            "PUNCT"
+        ],
+        "dependencyarc": [
+            "0010000",
+            "0000000",
+            "1011100",
+            "1000000",
+            "1000100",
+            "1010000",
+            "1010000"
+        ],
+        "dependencytype": [
+            "aux",
+            "advmod",
+            "root",
+            "obj",
+            "parataxis",
+            "obj",
+            "parataxis"
+        ]
+    },
+    {
+        "characters": [
+            {
+                "character": "鴻",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "門",
+                "okurigana": "",
+                "particle": "の",
+                "position": ""
+            },
+            {
+                "character": "玉",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "斗",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "紛",
+                "okurigana": "",
+                "particle": "として",
+                "position": ""
+            },
+            {
+                "character": "如",
+                "okurigana": "",
+                "particle": "し",
+                "position": "レ"
+            },
+            {
+                "character": "雪",
+                "okurigana": "",
+                "particle": "の",
+                "position": ""
+            }
+        ],
+        "japanese_translation": "鴻門の玉斗紛として雪の如し",
+        "japanese": "鴻門玉斗紛如雪",
+        "traditional_chinese": "鴻門玉斗紛如雪",
+        "simplified_chinese": "鸿门玉斗纷如雪",
+        "segmentation": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "partofspeech": [
+            "PROPN",
+            "NOUN",
+            "NOUN",
+            "NOUN",
+            "VERB",
+            "VERB",
+            "NOUN"
+        ],
+        "dependencyarc": [
+            "0010000",
+            "0011000",
+            "0000000",
+            "0011000",
+            "0011000",
+            "1011100",
+            "1010000"
+        ],
+        "dependencytype": [
+            "nmod",
+            "nmod",
+            "nmod",
+            "nsubj",
+            "csubj",
+            "root",
+            "obj"
+        ]
+    },
+    {
+        "characters": [
+            {
+                "character": "行",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "楽",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "須",
+                "okurigana": "",
+                "particle": "らくSべKし",
+                "position": "レ"
+            },
+            {
+                "character": "及",
+                "okurigana": "ぶ",
+                "particle": "",
+                "position": "レ"
+            },
+            {
+                "character": "春",
+                "okurigana": "",
+                "particle": "に",
+                "position": ""
+            }
+        ],
+        "japanese_translation": "行楽須らく春に及ぶべし",
+        "japanese": "行楽須及春",
+        "traditional_chinese": "行樂須及春",
+        "simplified_chinese": "行乐须及春",
+        "segmentation": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "partofspeech": [
+            "VERB",
+            "NOUN",
+            "AUX",
+            "VERB",
+            "NOUN"
+        ],
+        "dependencyarc": [
+            "0010000",
+            "0011000",
+            "0000000",
+            "1011100",
+            "1010000"
+        ],
+        "dependencytype": [
+            "amod",
+            "nsubj",
+            "aux",
+            "root",
+            "obj"
+        ]
+    },
+    {
+        "characters": [
+            {
+                "character": "策",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "不",
+                "okurigana": "",
+                "particle": "DざKれば",
+                "position": "レ"
+            },
+            {
+                "character": "従",
+                "okurigana": "わ",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "、",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "則",
+                "okurigana": "ち",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "謀",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "士",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "叛",
+                "okurigana": "く",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "。",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            }
+        ],
+        "japanese_translation": "策従わざれば、則ち謀士叛く。",
+        "japanese": "策不従、則謀士叛。",
+        "traditional_chinese": "策不從、則謀士叛。",
+        "simplified_chinese": "策不从、则谋士叛。",
+        "segmentation": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "partofspeech": [
+            "NOUN",
+            "ADV",
+            "VERB",
+            "PUNCT",
+            "ADV",
+            "VERB",
+            "NOUN",
+            "VERB",
+            "PUNCT"
+        ],
+        "dependencyarc": [
+            "0010000",
+            "0000000",
+            "0011000",
+            "0000000",
+            "0000000",
+            "0010000",
+            "0001000",
+            "1011100",
+            "1010000"
+        ],
+        "dependencytype": [
+            "nsubj",
+            "advmod",
+            "advcl",
+            "discourse:sp",
+            "advmod",
+            "amod",
+            "nsubj",
+            "root",
+            "discourse:sp"
+        ]
+    },
+    {
+        "characters": [
+            {
+                "character": "知",
+                "okurigana": "",
+                "particle": "り",
+                "position": ""
+            },
+            {
+                "character": "而",
+                "okurigana": "",
+                "particle": "DBて",
+                "position": ""
+            },
+            {
+                "character": "弗",
+                "okurigana": "",
+                "particle": "DざKれば",
+                "position": "レ"
+            },
+            {
+                "character": "掲",
+                "okurigana": "げ",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "、",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "全",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "閭",
+                "okurigana": "",
+                "particle": "、",
+                "position": ""
+            },
+            {
+                "character": "有",
+                "okurigana": "",
+                "particle": "り",
+                "position": "レ"
+            },
+            {
+                "character": "誅",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "。",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            }
+        ],
+        "japanese_translation": "知りて掲げざれば、全閭、誅有り。",
+        "japanese": "知而弗掲、全閭有誅。",
+        "traditional_chinese": "知而弗揭、全閭有誅。",
+        "simplified_chinese": "知而弗揭、全闾有诛。",
+        "segmentation": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "partofspeech": [
+            "VERB",
+            "CCONJ",
+            "ADV",
+            "VERB",
+            "PUNCT",
+            "VERB",
+            "NOUN",
+            "VERB",
+            "VERB",
+            "PUNCT"
+        ],
+        "dependencyarc": [
+            "0010100",
+            "0010000",
+            "0000000",
+            "1011000",
+            "0000000",
+            "0000000",
+            "0000000",
+            "1011100",
+            "1000000",
+            "1010000"
+        ],
+        "dependencytype": [
+            "csubj",
+            "cc",
+            "advmod",
+            "conj",
+            "advmod",
+            "csubj",
+            "obj",
+            "root",
+            "obj",
+            "discourse:sp"
+        ]
+    },
+    {
+        "characters": [
+            {
+                "character": "能",
+                "okurigana": "く",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "得",
+                "okurigana": "る",
+                "particle": "",
+                "position": "二"
+            },
+            {
+                "character": "其",
+                "okurigana": "の",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "師",
+                "okurigana": "",
+                "particle": "を",
+                "position": "一"
+            },
+            {
+                "character": "者",
+                "okurigana": "",
+                "particle": "は",
+                "position": ""
+            },
+            {
+                "character": "王",
+                "okurigana": "",
+                "particle": "たり",
+                "position": ""
+            },
+            {
+                "character": "、",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "能",
+                "okurigana": "く",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "得",
+                "okurigana": "る",
+                "particle": "",
+                "position": "二"
+            },
+            {
+                "character": "其",
+                "okurigana": "の",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "友",
+                "okurigana": "",
+                "particle": "を",
+                "position": "一"
+            },
+            {
+                "character": "者",
+                "okurigana": "",
+                "particle": "は",
+                "position": ""
+            },
+            {
+                "character": "覇",
+                "okurigana": "",
+                "particle": "たり",
+                "position": ""
+            },
+            {
+                "character": "。",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            }
+        ],
+        "japanese_translation": "能く其の師を得る者は王たり、能く其の友を得る者は覇たり。",
+        "japanese": "能得其師者王、能得其友者覇。",
+        "traditional_chinese": "能得其師者王、能得其友者霸。",
+        "simplified_chinese": "能得其师者王、能得其友者霸。",
+        "segmentation": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "partofspeech": [
+            "AUX",
+            "VERB",
+            "PRON",
+            "NOUN",
+            "PART",
+            "VERB",
+            "PUNCT",
+            "AUX",
+            "VERB",
+            "PRON",
+            "NOUN",
+            "PART",
+            "VERB",
+            "PUNCT"
+        ],
+        "dependencyarc": [
+            "0010000",
+            "0011100",
+            "0010000",
+            "1011000",
+            "0011000",
+            "1011100",
+            "1000000",
+            "0010000",
+            "1001100",
+            "0010000",
+            "1011000",
+            "0010000",
+            "1001000",
+            "1010000"
+        ],
+        "dependencytype": [
+            "aux",
+            "acl",
+            "det",
+            "obj",
+            "nsubj",
+            "root",
+            "dislocated",
+            "aux",
+            "csubj",
+            "det",
+            "obj",
+            "nsubj",
+            "conj",
+            "discourse:sp"
+        ]
+    },
+    {
+        "characters": [
+            {
+                "character": "子",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "曰",
+                "okurigana": "",
+                "particle": "く",
+                "position": ""
+            },
+            {
+                "character": "、",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "務",
+                "okurigana": "め",
+                "particle": "",
+                "position": "二"
+            },
+            {
+                "character": "民",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "之",
+                "okurigana": "",
+                "particle": "Dの",
+                "position": ""
+            },
+            {
+                "character": "義",
+                "okurigana": "",
+                "particle": "を",
+                "position": "一"
+            },
+            {
+                "character": "、",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "敬",
+                "okurigana": "",
+                "particle": "",
+                "position": "二"
+            },
+            {
+                "character": "鬼",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "神",
+                "okurigana": "",
+                "particle": "を",
+                "position": "一"
+            },
+            {
+                "character": "而",
+                "okurigana": "し",
+                "particle": "DBて",
+                "position": ""
+            },
+            {
+                "character": "遠",
+                "okurigana": "",
+                "particle": "",
+                "position": "レ"
+            },
+            {
+                "character": "之",
+                "okurigana": "",
+                "particle": "を",
+                "position": ""
+            },
+            {
+                "character": "。",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            }
+        ],
+        "japanese_translation": "子曰く、民の義を務め、鬼神を敬して之を遠ざく。",
+        "japanese": "子曰、務民之義、敬鬼神而遠之。",
+        "traditional_chinese": "子曰、務民之義、敬鬼神而遠之。",
+        "simplified_chinese": "子曰、务民之义、敬鬼神而远之。",
+        "segmentation": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "partofspeech": [
+            "NOUN",
+            "VERB",
+            "PUNCT",
+            "VERB",
+            "NOUN",
+            "SCONJ",
+            "NOUN",
+            "PUNCT",
+            "VERB",
+            "NOUN",
+            "NOUN",
+            "CCONJ",
+            "VERB",
+            "PRON",
+            "PUNCT"
+        ],
+        "dependencyarc": [
+            "0010000",
+            "1011100",
+            "1000000",
+            "1000100",
+            "0010100",
+            "1010000",
+            "1011000",
+            "1000000",
+            "1000100",
+            "1010100",
+            "1010000",
+            "0010000",
+            "1001100",
+            "1010000",
+            "1010000"
+        ],
+        "dependencytype": [
+            "nsubj",
+            "root",
+            "advmod",
+            "advcl",
+            "nmod",
+            "case",
+            "obj",
+            "advmod",
+            "conj",
+            "obj",
+            "conj",
+            "cc",
+            "conj",
+            "obj",
+            "discourse:sp"
+        ]
+    },
+    {
+        "characters": [
+            {
+                "character": "乃",
+                "okurigana": "ち",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "去",
+                "okurigana": "り",
+                "particle": "て",
+                "position": ""
+            },
+            {
+                "character": "、",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "舎",
+                "okurigana": "",
+                "particle": "す",
+                "position": "二"
+            },
+            {
+                "character": "市",
+                "okurigana": "",
+                "particle": "の",
+                "position": ""
+            },
+            {
+                "character": "傍",
+                "okurigana": "",
+                "particle": "に",
+                "position": "一"
+            },
+            {
+                "character": "。",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            }
+        ],
+        "japanese_translation": "乃ち去りて、市の傍に舎す。",
+        "japanese": "乃去、舎市傍。",
+        "traditional_chinese": "乃去、舍市傍。",
+        "simplified_chinese": "乃去、舍市傍。",
+        "segmentation": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "partofspeech": [
+            "ADV",
+            "VERB",
+            "PUNCT",
+            "VERB",
+            "NOUN",
+            "NOUN",
+            "PUNCT"
+        ],
+        "dependencyarc": [
+            "0010000",
+            "1011100",
+            "1000000",
+            "1000100",
+            "0010000",
+            "1011000",
+            "1010000"
+        ],
+        "dependencytype": [
+            "advmod",
+            "root",
+            "parataxis",
+            "conj",
+            "nmod",
+            "obj",
+            "discourse:sp"
+        ]
+    },
+    {
+        "characters": [
+            {
+                "character": "其",
+                "okurigana": "の",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "名",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "又",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "有",
+                "okurigana": "",
+                "particle": "り",
+                "position": "レ"
+            },
+            {
+                "character": "五",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "。",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            }
+        ],
+        "japanese_translation": "其の名又五有り。",
+        "japanese": "其名又有五。",
+        "traditional_chinese": "其名又有五。",
+        "simplified_chinese": "其名又有五。",
+        "segmentation": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "partofspeech": [
+            "PRON",
+            "NOUN",
+            "ADV",
+            "VERB",
+            "NUM",
+            "PUNCT"
+        ],
+        "dependencyarc": [
+            "0010000",
+            "0011000",
+            "0000000",
+            "1011100",
+            "1000000",
+            "1010000"
+        ],
+        "dependencytype": [
+            "det",
+            "nsubj",
+            "advmod",
+            "root",
+            "obj",
+            "flat:vv"
+        ]
+    },
+    {
+        "characters": [
+            {
+                "character": "跨",
+                "okurigana": "ぐ",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "者",
+                "okurigana": "",
+                "particle": "は",
+                "position": ""
+            },
+            {
+                "character": "不",
+                "okurigana": "",
+                "particle": "Dず",
+                "position": "レ"
+            },
+            {
+                "character": "行",
+                "okurigana": "か",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "。",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            }
+        ],
+        "japanese_translation": "跨ぐ者は行かず。",
+        "japanese": "跨者不行。",
+        "traditional_chinese": "跨者不行。",
+        "simplified_chinese": "跨者不行。",
+        "segmentation": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "partofspeech": [
+            "VERB",
+            "PART",
+            "ADV",
+            "VERB",
+            "PUNCT"
+        ],
+        "dependencyarc": [
+            "0010000",
+            "0011000",
+            "0000000",
+            "1011100",
+            "1010000"
+        ],
+        "dependencytype": [
+            "amod",
+            "nsubj",
+            "advmod",
+            "root",
+            "discourse:sp"
+        ]
+    },
+    {
+        "characters": [
+            {
+                "character": "蘇",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "子",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "美",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "嘗",
+                "okurigana": "て",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "言",
+                "okurigana": "う",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "、",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "明",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "窓",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "浄",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "几",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "、",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "筆",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "硯",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "紙",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "墨",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "、",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "皆",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "極",
+                "okurigana": "むる",
+                "particle": "は",
+                "position": "二"
+            },
+            {
+                "character": "精",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "良",
+                "okurigana": "",
+                "particle": "を",
+                "position": "一"
+            },
+            {
+                "character": "、",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "亦",
+                "okurigana": "た",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "自",
+                "okurigana": "ずから",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "是",
+                "okurigana": "れ",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "人",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "生",
+                "okurigana": "",
+                "particle": "の",
+                "position": ""
+            },
+            {
+                "character": "一",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "楽",
+                "okurigana": "",
+                "particle": "なり",
+                "position": ""
+            },
+            {
+                "character": "。",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            }
+        ],
+        "japanese_translation": "蘇子美嘗て言う、明窓浄几、筆硯紙墨、皆精良を極むるは、亦た自ずから是れ人生の一楽なり。",
+        "japanese": "蘇子美嘗言、明窓浄几、筆硯紙墨、皆極精良、亦自是人生一楽。",
+        "traditional_chinese": "蘇子美嘗言、明窓淨几、筆硯紙墨、皆極精良、亦自是人生一樂。",
+        "simplified_chinese": "苏子美尝言、明窓净几、笔砚纸墨、皆极精良、亦自是人生一乐。",
+        "segmentation": [
+            "B",
+            "B",
+            "I",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "partofspeech": [
+            "PROPN",
+            "PROPN",
+            "continue",
+            "ADV",
+            "VERB",
+            "PUNCT",
+            "VERB",
+            "NOUN",
+            "VERB",
+            "NOUN",
+            "PUNCT",
+            "NOUN",
+            "NOUN",
+            "NOUN",
+            "NOUN",
+            "PUNCT",
+            "ADV",
+            "VERB",
+            "VERB",
+            "VERB",
+            "PUNCT",
+            "ADV",
+            "PRON",
+            "PRON",
+            "NOUN",
+            "NOUN",
+            "NUM",
+            "NOUN",
+            "PUNCT"
+        ],
+        "dependencyarc": [
+            "0010100",
+            "1010000",
+            "continue",
+            "0000000",
+            "1011100",
+            "1000000",
+            "0010000",
+            "0111100",
+            "0010000",
+            "1001000",
+            "0100000",
+            "1010100",
+            "1000000",
+            "1000000",
+            "1010000",
+            "1000000",
+            "1000000",
+            "1000000",
+            "1000101",
+            "1010000",
+            "1000000",
+            "1000000",
+            "1100000",
+            "1110000",
+            "0010000",
+            "0011000",
+            "0000000",
+            "1001010",
+            "1010000"
+        ],
+        "dependencytype": [
+            "nsubj",
+            "flat",
+            "continue",
+            "advmod",
+            "root",
+            "nsubj",
+            "amod",
+            "nsubj",
+            "amod",
+            "conj",
+            "cc",
+            "conj",
+            "conj",
+            "conj",
+            "conj",
+            "csubj",
+            "advmod",
+            "ccomp",
+            "ccomp",
+            "flat:vv",
+            "nsubj:outer",
+            "advmod",
+            "obl",
+            "obl",
+            "nmod",
+            "nmod",
+            "nummod",
+            "ccomp",
+            "parataxis"
+        ]
+    },
+    {
+        "characters": [
+            {
+                "character": "子",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "曰",
+                "okurigana": "",
+                "particle": "く",
+                "position": ""
+            },
+            {
+                "character": "、",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "是",
+                "okurigana": "",
+                "particle": "の",
+                "position": ""
+            },
+            {
+                "character": "故",
+                "okurigana": "",
+                "particle": "に",
+                "position": ""
+            },
+            {
+                "character": "悪",
+                "okurigana": "む",
+                "particle": "",
+                "position": "二"
+            },
+            {
+                "character": "夫",
+                "okurigana": "",
+                "particle": "の",
+                "position": ""
+            },
+            {
+                "character": "佞",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "者",
+                "okurigana": "",
+                "particle": "を",
+                "position": "一"
+            },
+            {
+                "character": "。",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            }
+        ],
+        "japanese_translation": "子曰く、是の故に夫の佞者を悪む。",
+        "japanese": "子曰、是故悪夫佞者。",
+        "traditional_chinese": "子曰、是故惡夫佞者。",
+        "simplified_chinese": "子曰、是故恶夫佞者。",
+        "segmentation": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "partofspeech": [
+            "NOUN",
+            "VERB",
+            "PUNCT",
+            "PRON",
+            "NOUN",
+            "VERB",
+            "PRON",
+            "NOUN",
+            "PART",
+            "PUNCT"
+        ],
+        "dependencyarc": [
+            "0010000",
+            "1011100",
+            "1000000",
+            "0010000",
+            "1001000",
+            "1000100",
+            "0010000",
+            "0000000",
+            "1011000",
+            "1010000"
+        ],
+        "dependencytype": [
+            "nsubj",
+            "root",
+            "nsubj",
+            "det",
+            "obl",
+            "ccomp",
+            "det",
+            "nmod",
+            "obj",
+            "advcl"
+        ]
+    },
+    {
+        "characters": [
+            {
+                "character": "孝",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "悌",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "之",
+                "okurigana": "",
+                "particle": "Dの",
+                "position": ""
+            },
+            {
+                "character": "至",
+                "okurigana": "り",
+                "particle": "は",
+                "position": ""
+            },
+            {
+                "character": "、",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "通",
+                "okurigana": "",
+                "particle": "じ",
+                "position": "レ"
+            },
+            {
+                "character": "於",
+                "okurigana": "",
+                "particle": "DBに",
+                "position": "二"
+            },
+            {
+                "character": "神",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "明",
+                "okurigana": "",
+                "particle": "",
+                "position": "一"
+            },
+            {
+                "character": "、",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "光",
+                "okurigana": "ち",
+                "particle": "",
+                "position": "レ"
+            },
+            {
+                "character": "于",
+                "okurigana": "",
+                "particle": "DBに",
+                "position": "二"
+            },
+            {
+                "character": "四",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "海",
+                "okurigana": "",
+                "particle": "",
+                "position": "一"
+            },
+            {
+                "character": "、",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "無",
+                "okurigana": "し",
+                "particle": "",
+                "position": "レ"
+            },
+            {
+                "character": "所",
+                "okurigana": "",
+                "particle": "",
+                "position": "レ"
+            },
+            {
+                "character": "不",
+                "okurigana": "",
+                "particle": "DざKる",
+                "position": "レ"
+            },
+            {
+                "character": "通",
+                "okurigana": "ぜ",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "。",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            }
+        ],
+        "japanese_translation": "孝悌の至りは、神明に通じ、四海に光ち、通ぜざる所無し。",
+        "japanese": "孝悌之至、通於神明、光于四海、無所不通。",
+        "traditional_chinese": "孝悌之至、通於神明、光于四海、無所不通。",
+        "simplified_chinese": "孝悌之至、通于神明、光于四海、无所不通。",
+        "segmentation": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "partofspeech": [
+            "NOUN",
+            "NOUN",
+            "SCONJ",
+            "NOUN",
+            "PUNCT",
+            "VERB",
+            "ADP",
+            "NOUN",
+            "NOUN",
+            "PUNCT",
+            "VERB",
+            "ADP",
+            "NUM",
+            "NOUN",
+            "PUNCT",
+            "VERB",
+            "PART",
+            "ADV",
+            "VERB",
+            "PUNCT"
+        ],
+        "dependencyarc": [
+            "0010100",
+            "1000000",
+            "1010000",
+            "0011000",
+            "0000000",
+            "1011100",
+            "0010000",
+            "0000000",
+            "1001000",
+            "0010000",
+            "1000101",
+            "0010000",
+            "0000000",
+            "1001000",
+            "1010000",
+            "1011100",
+            "0010000",
+            "0000000",
+            "1011000",
+            "1110000"
+        ],
+        "dependencytype": [
+            "nmod",
+            "flat",
+            "case",
+            "nsubj",
+            "advmod",
+            "root",
+            "case",
+            "nmod",
+            "obl",
+            "cc",
+            "conj",
+            "case",
+            "nummod",
+            "obl:lmod",
+            "discourse:sp",
+            "conj",
+            "mark",
+            "advmod",
+            "ccomp",
+            "advcl"
+        ]
+    },
+    {
+        "characters": [
+            {
+                "character": "引",
+                "okurigana": "",
+                "particle": "きて",
+                "position": "レ"
+            },
+            {
+                "character": "手",
+                "okurigana": "",
+                "particle": "を",
+                "position": ""
+            },
+            {
+                "character": "作",
+                "okurigana": "す",
+                "particle": "も",
+                "position": "二"
+            },
+            {
+                "character": "推",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "敲",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "之",
+                "okurigana": "",
+                "particle": "Dの",
+                "position": ""
+            },
+            {
+                "character": "勢",
+                "okurigana": "い",
+                "particle": "を",
+                "position": "一"
+            },
+            {
+                "character": "、",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "未",
+                "okurigana": "",
+                "particle": "だSず",
+                "position": "レ"
+            },
+            {
+                "character": "決",
+                "okurigana": "せ",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "。",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            }
+        ],
+        "japanese_translation": "手を引きて推敲の勢いを作すも、未だ決せず。",
+        "japanese": "引手作推敲之勢、未決。",
+        "traditional_chinese": "引手作推敲之勢、未決。",
+        "simplified_chinese": "引手作推敲之势、未决。",
+        "segmentation": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "partofspeech": [
+            "VERB",
+            "NOUN",
+            "VERB",
+            "VERB",
+            "VERB",
+            "SCONJ",
+            "NOUN",
+            "PUNCT",
+            "ADV",
+            "VERB",
+            "PUNCT"
+        ],
+        "dependencyarc": [
+            "1010100",
+            "1000000",
+            "1000100",
+            "0010100",
+            "1000000",
+            "1010000",
+            "1011000",
+            "0010000",
+            "0000000",
+            "1001000",
+            "1010000"
+        ],
+        "dependencytype": [
+            "root",
+            "obj",
+            "parataxis",
+            "amod",
+            "flat:vv",
+            "case",
+            "obj",
+            "discourse:sp",
+            "advmod",
+            "parataxis",
+            "dislocated"
+        ]
+    },
+    {
+        "characters": [
+            {
+                "character": "知",
+                "okurigana": "れ",
+                "particle": "ば",
+                "position": "三"
+            },
+            {
+                "character": "仲",
+                "okurigana": "",
+                "particle": "は",
+                "position": ""
+            },
+            {
+                "character": "有",
+                "okurigana": "",
+                "particle": "るを",
+                "position": "二"
+            },
+            {
+                "character": "老",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "母",
+                "okurigana": "",
+                "particle": "",
+                "position": "一"
+            },
+            {
+                "character": "也",
+                "okurigana": "",
+                "particle": "Dなり",
+                "position": ""
+            },
+            {
+                "character": "。",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            }
+        ],
+        "japanese_translation": "仲は老母有るを知ればなり。",
+        "japanese": "知仲有老母也。",
+        "traditional_chinese": "知仲有老母也。",
+        "simplified_chinese": "知仲有老母也。",
+        "segmentation": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "partofspeech": [
+            "PROPN",
+            "PROPN",
+            "VERB",
+            "VERB",
+            "NOUN",
+            "PART",
+            "PUNCT"
+        ],
+        "dependencyarc": [
+            "0010100",
+            "1010000",
+            "1011100",
+            "0010000",
+            "1001000",
+            "1000000",
+            "1010000"
+        ],
+        "dependencytype": [
+            "nsubj",
+            "flat",
+            "root",
+            "amod",
+            "obj",
+            "discourse:sp",
+            "discourse:sp"
+        ]
+    },
+    {
+        "characters": [
+            {
+                "character": "将",
+                "okurigana": "た",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "随",
+                "okurigana": "わ",
+                "particle": "ん",
+                "position": "二"
+            },
+            {
+                "character": "駑",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "馬",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "之",
+                "okurigana": "",
+                "particle": "Dの",
+                "position": ""
+            },
+            {
+                "character": "跡",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "乎",
+                "okurigana": "",
+                "particle": "DBに",
+                "position": "一"
+            },
+            {
+                "character": "。",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            }
+        ],
+        "japanese_translation": "将た駑馬の跡に随わんか。",
+        "japanese": "将随駑馬之跡乎。",
+        "traditional_chinese": "將隨駑馬之跡乎。",
+        "simplified_chinese": "将随驽马之迹乎。",
+        "segmentation": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "partofspeech": [
+            "ADV",
+            "VERB",
+            "NOUN",
+            "NOUN",
+            "SCONJ",
+            "NOUN",
+            "PART",
+            "PUNCT"
+        ],
+        "dependencyarc": [
+            "0010000",
+            "1011100",
+            "0010100",
+            "1000000",
+            "1010000",
+            "1001000",
+            "1000000",
+            "1010000"
+        ],
+        "dependencytype": [
+            "advmod",
+            "root",
+            "nmod",
+            "flat",
+            "mark",
+            "obj",
+            "discourse:sp",
+            "obj"
+        ]
+    },
+    {
+        "characters": [
+            {
+                "character": "治",
+                "okurigana": "す",
+                "particle": "に",
+                "position": "レ"
+            },
+            {
+                "character": "病",
+                "okurigana": "",
+                "particle": "を",
+                "position": ""
+            },
+            {
+                "character": "不",
+                "okurigana": "",
+                "particle": "Dず",
+                "position": "レ"
+            },
+            {
+                "character": "蘄",
+                "okurigana": "",
+                "particle": "め",
+                "position": "二"
+            },
+            {
+                "character": "三",
+                "okurigana": "たび",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "折",
+                "okurigana": "",
+                "particle": "るを",
+                "position": "一レ"
+            },
+            {
+                "character": "肱",
+                "okurigana": "",
+                "particle": "を",
+                "position": ""
+            }
+        ],
+        "japanese_translation": "病を治すに三たび肱を折るを蘄めず",
+        "japanese": "治病不蘄三折肱",
+        "traditional_chinese": "治病不蘄三折肱",
+        "simplified_chinese": "治病不蕲三折肱",
+        "segmentation": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "partofspeech": [
+            "VERB",
+            "NOUN",
+            "ADV",
+            "VERB",
+            "NUM",
+            "VERB",
+            "NOUN"
+        ],
+        "dependencyarc": [
+            "0010100",
+            "1010000",
+            "0000000",
+            "1011100",
+            "0010000",
+            "1011100",
+            "1010000"
+        ],
+        "dependencytype": [
+            "csubj",
+            "obj",
+            "advmod",
+            "root",
+            "nummod",
+            "ccomp",
+            "obj"
+        ]
+    },
+    {
+        "characters": [
+            {
+                "character": "王",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "国",
+                "okurigana": "",
+                "particle": "は",
+                "position": ""
+            },
+            {
+                "character": "富",
+                "okurigana": "",
+                "particle": "ま",
+                "position": "レ"
+            },
+            {
+                "character": "民",
+                "okurigana": "",
+                "particle": "を",
+                "position": ""
+            },
+            {
+                "character": "、",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "覇",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "国",
+                "okurigana": "",
+                "particle": "は",
+                "position": ""
+            },
+            {
+                "character": "富",
+                "okurigana": "",
+                "particle": "ま",
+                "position": "レ"
+            },
+            {
+                "character": "士",
+                "okurigana": "",
+                "particle": "を",
+                "position": ""
+            },
+            {
+                "character": "、",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "僅",
+                "okurigana": "か",
+                "particle": "に",
+                "position": ""
+            },
+            {
+                "character": "存",
+                "okurigana": "する",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "之",
+                "okurigana": "",
+                "particle": "Dの",
+                "position": ""
+            },
+            {
+                "character": "国",
+                "okurigana": "",
+                "particle": "は",
+                "position": ""
+            },
+            {
+                "character": "富",
+                "okurigana": "",
+                "particle": "ま",
+                "position": "二"
+            },
+            {
+                "character": "大",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "夫",
+                "okurigana": "",
+                "particle": "を",
+                "position": "一"
+            },
+            {
+                "character": "、",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "亡",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "国",
+                "okurigana": "",
+                "particle": "は",
+                "position": ""
+            },
+            {
+                "character": "富",
+                "okurigana": "ま",
+                "particle": "",
+                "position": "二"
+            },
+            {
+                "character": "倉",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "府",
+                "okurigana": "",
+                "particle": "を",
+                "position": "一"
+            },
+            {
+                "character": "。",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            }
+        ],
+        "japanese_translation": "王国は民を富まし、覇国は士を富まし、僅かに存するの国は大夫を富まし、亡国は倉府を富ます。",
+        "japanese": "王国富民、覇国富士、僅存之国富大夫、亡国富倉府。",
+        "traditional_chinese": "王國富民、霸國富士、僅存之國富大夫、亡國富倉府。",
+        "simplified_chinese": "王国富民、霸国富士、仅存之国富大夫、亡国富仓府。",
+        "segmentation": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "partofspeech": [
+            "NOUN",
+            "NOUN",
+            "VERB",
+            "NOUN",
+            "PUNCT",
+            "VERB",
+            "NOUN",
+            "VERB",
+            "NOUN",
+            "PUNCT",
+            "ADV",
+            "VERB",
+            "SCONJ",
+            "NOUN",
+            "VERB",
+            "VERB",
+            "NOUN",
+            "PUNCT",
+            "VERB",
+            "NOUN",
+            "VERB",
+            "NOUN",
+            "NOUN",
+            "PUNCT"
+        ],
+        "dependencyarc": [
+            "0010000",
+            "0011001",
+            "1011100",
+            "1000000",
+            "1000000",
+            "0010000",
+            "0011000",
+            "1001100",
+            "0010000",
+            "0010000",
+            "1110000",
+            "0010101",
+            "1010000",
+            "1001000",
+            "1111101",
+            "0010000",
+            "1001000",
+            "1010000",
+            "0010000",
+            "1011000",
+            "1011100",
+            "0010000",
+            "1011000",
+            "1110000"
+        ],
+        "dependencytype": [
+            "nmod",
+            "nsubj",
+            "root",
+            "obj",
+            "discourse:sp",
+            "amod",
+            "nsubj",
+            "conj",
+            "obj",
+            "dislocated",
+            "advmod",
+            "acl",
+            "case",
+            "nsubj",
+            "parataxis",
+            "amod",
+            "obj",
+            "cc",
+            "amod",
+            "nsubj",
+            "conj",
+            "nmod",
+            "obj",
+            "discourse:sp"
+        ]
+    },
+    {
+        "characters": [
+            {
+                "character": "此",
+                "okurigana": "",
+                "particle": "を",
+                "position": ""
+            },
+            {
+                "character": "謂",
+                "okurigana": "い",
+                "particle": "",
+                "position": "二"
+            },
+            {
+                "character": "物",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "格",
+                "okurigana": "",
+                "particle": "る",
+                "position": "一"
+            },
+            {
+                "character": "、",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "此",
+                "okurigana": "",
+                "particle": "を",
+                "position": ""
+            },
+            {
+                "character": "謂",
+                "okurigana": "う",
+                "particle": "",
+                "position": "二"
+            },
+            {
+                "character": "知",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "之",
+                "okurigana": "",
+                "particle": "Dの",
+                "position": ""
+            },
+            {
+                "character": "至",
+                "okurigana": "り",
+                "particle": "と",
+                "position": "一"
+            },
+            {
+                "character": "也",
+                "okurigana": "",
+                "particle": "Dなり",
+                "position": ""
+            },
+            {
+                "character": "。",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            }
+        ],
+        "japanese_translation": "此を物格ると謂い、此を知の至りと謂うなり。",
+        "japanese": "此謂物格、此謂知之至也。",
+        "traditional_chinese": "此謂物格、此謂知之至也。",
+        "simplified_chinese": "此谓物格、此谓知之至也。",
+        "segmentation": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "partofspeech": [
+            "PRON",
+            "VERB",
+            "NOUN",
+            "VERB",
+            "PUNCT",
+            "PRON",
+            "VERB",
+            "NOUN",
+            "SCONJ",
+            "NOUN",
+            "PART",
+            "PUNCT"
+        ],
+        "dependencyarc": [
+            "0010000",
+            "1011100",
+            "0010000",
+            "1001000",
+            "0010000",
+            "0000000",
+            "1001100",
+            "0010100",
+            "1010000",
+            "1001000",
+            "1010000",
+            "1010000"
+        ],
+        "dependencytype": [
+            "nsubj",
+            "root",
+            "nsubj",
+            "ccomp",
+            "cc",
+            "nsubj",
+            "ccomp",
+            "nmod",
+            "case",
+            "obj",
+            "discourse:sp",
+            "discourse:sp"
+        ]
+    },
+    {
+        "characters": [
+            {
+                "character": "城",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "上",
+                "okurigana": "",
+                "particle": "には",
+                "position": ""
+            },
+            {
+                "character": "不",
+                "okurigana": "",
+                "particle": "Dず",
+                "position": "レ"
+            },
+            {
+                "character": "趨",
+                "okurigana": "",
+                "particle": "ら",
+                "position": ""
+            },
+            {
+                "character": "、",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "危",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "事",
+                "okurigana": "",
+                "particle": "には",
+                "position": ""
+            },
+            {
+                "character": "不",
+                "okurigana": "",
+                "particle": "Dず",
+                "position": "レ"
+            },
+            {
+                "character": "歯",
+                "okurigana": "",
+                "particle": "せ",
+                "position": ""
+            },
+            {
+                "character": "。",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            }
+        ],
+        "japanese_translation": "城上には趨らず、危事には歯せず。",
+        "japanese": "城上不趨、危事不歯。",
+        "traditional_chinese": "城上不趨、危事不齒。",
+        "simplified_chinese": "城上不趋、危事不齿。",
+        "segmentation": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "partofspeech": [
+            "NOUN",
+            "NOUN",
+            "ADV",
+            "VERB",
+            "PUNCT",
+            "VERB",
+            "NOUN",
+            "ADV",
+            "VERB",
+            "PUNCT"
+        ],
+        "dependencyarc": [
+            "0010000",
+            "0011000",
+            "0000000",
+            "0011001",
+            "0000000",
+            "0010000",
+            "1111000",
+            "0000000",
+            "1011100",
+            "1010000"
+        ],
+        "dependencytype": [
+            "nmod",
+            "nsubj",
+            "advmod",
+            "csubj",
+            "nsubj",
+            "amod",
+            "obj",
+            "advmod",
+            "root",
+            "discourse:sp"
+        ]
+    },
+    {
+        "characters": [
+            {
+                "character": "見",
+                "okurigana": "",
+                "particle": "て",
+                "position": "三"
+            },
+            {
+                "character": "其",
+                "okurigana": "の",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "竈",
+                "okurigana": "",
+                "particle": "の",
+                "position": ""
+            },
+            {
+                "character": "直",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "突",
+                "okurigana": "",
+                "particle": "にして",
+                "position": ""
+            },
+            {
+                "character": "、",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "傍",
+                "okurigana": "ら",
+                "particle": "に",
+                "position": ""
+            },
+            {
+                "character": "有",
+                "okurigana": "",
+                "particle": "るを",
+                "position": "二"
+            },
+            {
+                "character": "積",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "薪",
+                "okurigana": "",
+                "particle": "",
+                "position": "一"
+            },
+            {
+                "character": "、",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "謂",
+                "okurigana": "う",
+                "particle": "",
+                "position": "二"
+            },
+            {
+                "character": "主",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "人",
+                "okurigana": "",
+                "particle": "に",
+                "position": "一"
+            },
+            {
+                "character": "、",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "更",
+                "okurigana": "めて",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "為",
+                "okurigana": "",
+                "particle": "り",
+                "position": "二"
+            },
+            {
+                "character": "曲",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "突",
+                "okurigana": "",
+                "particle": "を",
+                "position": "一"
+            },
+            {
+                "character": "、",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "速",
+                "okurigana": "やか",
+                "particle": "に",
+                "position": ""
+            },
+            {
+                "character": "徙",
+                "okurigana": "せ",
+                "particle": "",
+                "position": "二"
+            },
+            {
+                "character": "其",
+                "okurigana": "の",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "薪",
+                "okurigana": "",
+                "particle": "を",
+                "position": "一"
+            },
+            {
+                "character": "。",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            }
+        ],
+        "japanese_translation": "其の竈の直突にして、傍らに積薪有るを見て、主人に謂う、更めて曲突を為り、速やかに其の薪を徙せ。",
+        "japanese": "見其竈直突、傍有積薪、謂主人、更為曲突、速徙其薪。",
+        "traditional_chinese": "見其竈直突、傍有積薪、謂主人、更爲曲突、速徙其薪。",
+        "simplified_chinese": "见其灶直突、傍有积薪、谓主人、更为曲突、速徙其薪。",
+        "segmentation": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "partofspeech": [
+            "VERB",
+            "PRON",
+            "NOUN",
+            "VERB",
+            "NOUN",
+            "PUNCT",
+            "NOUN",
+            "VERB",
+            "VERB",
+            "NOUN",
+            "PUNCT",
+            "VERB",
+            "VERB",
+            "NOUN",
+            "PUNCT",
+            "ADV",
+            "VERB",
+            "VERB",
+            "NOUN",
+            "PUNCT",
+            "ADV",
+            "VERB",
+            "PRON",
+            "NOUN",
+            "PUNCT"
+        ],
+        "dependencyarc": [
+            "1010100",
+            "0010000",
+            "0011000",
+            "0000000",
+            "0011100",
+            "0110000",
+            "0010000",
+            "1011100",
+            "0010000",
+            "1001100",
+            "1000000",
+            "1000011",
+            "0010000",
+            "0111000",
+            "1000000",
+            "0000000",
+            "1001110",
+            "1010000",
+            "1000000",
+            "1110000",
+            "1010000",
+            "1010100",
+            "0010000",
+            "1011000",
+            "1010000"
+        ],
+        "dependencytype": [
+            "root",
+            "det",
+            "nsubj",
+            "amod",
+            "obj",
+            "cc",
+            "nsubj",
+            "csubj",
+            "amod",
+            "obj",
+            "cop",
+            "parataxis",
+            "amod",
+            "obj",
+            "cop",
+            "advmod",
+            "ccomp",
+            "amod",
+            "obj",
+            "cc",
+            "advmod",
+            "parataxis",
+            "det",
+            "obj",
+            "parataxis"
+        ]
+    },
+    {
+        "characters": [
+            {
+                "character": "右",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "伝",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "之",
+                "okurigana": "",
+                "particle": "Dの",
+                "position": ""
+            },
+            {
+                "character": "七",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "章",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "、",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "釈",
+                "okurigana": "す",
+                "particle": "",
+                "position": "二"
+            },
+            {
+                "character": "正",
+                "okurigana": "しく",
+                "particle": "して",
+                "position": "レ"
+            },
+            {
+                "character": "心",
+                "okurigana": "",
+                "particle": "を",
+                "position": ""
+            },
+            {
+                "character": "修",
+                "okurigana": "む",
+                "particle": "るを",
+                "position": "一レ"
+            },
+            {
+                "character": "身",
+                "okurigana": "",
+                "particle": "を",
+                "position": ""
+            },
+            {
+                "character": "。",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            }
+        ],
+        "japanese_translation": "右伝の七章、心を正しくして身を修むるを釈す。",
+        "japanese": "右伝之七章、釈正心修身。",
+        "traditional_chinese": "右傳之七章、釋正心修身。",
+        "simplified_chinese": "右传之七章、释正心修身。",
+        "segmentation": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "partofspeech": [
+            "NOUN",
+            "NOUN",
+            "SCONJ",
+            "NUM",
+            "NOUN",
+            "PUNCT",
+            "VERB",
+            "VERB",
+            "NOUN",
+            "VERB",
+            "NOUN",
+            "PUNCT"
+        ],
+        "dependencyarc": [
+            "0010000",
+            "0011100",
+            "1010000",
+            "0000000",
+            "0011000",
+            "0000000",
+            "1011100",
+            "1010100",
+            "1000000",
+            "1000100",
+            "1010000",
+            "1010000"
+        ],
+        "dependencytype": [
+            "nmod",
+            "nmod",
+            "case",
+            "nummod",
+            "obj",
+            "nsubj",
+            "root",
+            "amod",
+            "obj",
+            "parataxis",
+            "obj",
+            "discourse:sp"
+        ]
+    },
+    {
+        "characters": [
+            {
+                "character": "天",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "文",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "三",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "人",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "、",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "主",
+                "okurigana": "る",
+                "particle": "",
+                "position": "三"
+            },
+            {
+                "character": "司",
+                "okurigana": "り",
+                "particle": "",
+                "position": "下"
+            },
+            {
+                "character": "星",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "暦",
+                "okurigana": "",
+                "particle": "を",
+                "position": "上"
+            },
+            {
+                "character": "、",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "候",
+                "okurigana": "い",
+                "particle": "",
+                "position": "中"
+            },
+            {
+                "character": "風",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "気",
+                "okurigana": "",
+                "particle": "を",
+                "position": "上"
+            },
+            {
+                "character": "、",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "推",
+                "okurigana": "し",
+                "particle": "",
+                "position": "中"
+            },
+            {
+                "character": "時",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "日",
+                "okurigana": "",
+                "particle": "を",
+                "position": "上"
+            },
+            {
+                "character": "、",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "考",
+                "okurigana": "え",
+                "particle": "",
+                "position": "中"
+            },
+            {
+                "character": "符",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "験",
+                "okurigana": "",
+                "particle": "を",
+                "position": "上"
+            },
+            {
+                "character": "、",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "校",
+                "okurigana": "り",
+                "particle": "",
+                "position": "中"
+            },
+            {
+                "character": "災",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "異",
+                "okurigana": "",
+                "particle": "を",
+                "position": "上"
+            },
+            {
+                "character": "、",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "知",
+                "okurigana": "る",
+                "particle": "ことを",
+                "position": "二"
+            },
+            {
+                "character": "天",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "心",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "去",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "就",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "之",
+                "okurigana": "",
+                "particle": "Dの",
+                "position": ""
+            },
+            {
+                "character": "機",
+                "okurigana": "",
+                "particle": "を",
+                "position": "一"
+            },
+            {
+                "character": "。",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            }
+        ],
+        "japanese_translation": "天文三人、星暦を司り、風気を候い、時日を推し、符験を考え、災異を校り、天心去就の機を知ることを主る。",
+        "japanese": "天文三人、主司星暦、候風気、推時日、考符験、校災異、知天心去就之機。",
+        "traditional_chinese": "天文三人、主司星曆、候風氣、推時日、考符驗、校災異、知天心去就之機。",
+        "simplified_chinese": "天文三人、主司星历、候风气、推时日、考符验、校灾异、知天心去就之机。",
+        "segmentation": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "partofspeech": [
+            "NOUN",
+            "NOUN",
+            "NUM",
+            "NOUN",
+            "PUNCT",
+            "NOUN",
+            "VERB",
+            "NOUN",
+            "NOUN",
+            "PUNCT",
+            "VERB",
+            "NOUN",
+            "NOUN",
+            "PUNCT",
+            "VERB",
+            "NOUN",
+            "NOUN",
+            "PUNCT",
+            "VERB",
+            "NOUN",
+            "NOUN",
+            "PUNCT",
+            "VERB",
+            "NOUN",
+            "NOUN",
+            "PUNCT",
+            "VERB",
+            "NOUN",
+            "NOUN",
+            "VERB",
+            "VERB",
+            "SCONJ",
+            "NOUN",
+            "PUNCT"
+        ],
+        "dependencyarc": [
+            "0110000",
+            "0010000",
+            "0000100",
+            "1010000",
+            "0000000",
+            "0000000",
+            "1011100",
+            "1000101",
+            "1010000",
+            "0010000",
+            "1001101",
+            "0010000",
+            "1001000",
+            "1000000",
+            "1000000",
+            "1100000",
+            "1100000",
+            "1110000",
+            "1000000",
+            "0010000",
+            "1111000",
+            "1010000",
+            "1000100",
+            "1010100",
+            "1010000",
+            "0010000",
+            "1001100",
+            "0010000",
+            "0011010",
+            "0000100",
+            "1000000",
+            "1010000",
+            "1011000",
+            "1010000"
+        ],
+        "dependencytype": [
+            "nmod",
+            "nsubj",
+            "nsubj",
+            "clf",
+            "discourse",
+            "nsubj",
+            "root",
+            "obj",
+            "conj",
+            "cc",
+            "ccomp",
+            "nmod",
+            "obj",
+            "cc",
+            "conj",
+            "obj",
+            "obj",
+            "cc",
+            "parataxis",
+            "nmod",
+            "conj",
+            "cc",
+            "conj",
+            "obj",
+            "conj",
+            "cc",
+            "parataxis",
+            "nmod",
+            "nmod",
+            "acl",
+            "flat:vv",
+            "case",
+            "obj",
+            "discourse"
+        ]
+    },
+    {
+        "characters": [
+            {
+                "character": "為",
+                "okurigana": "",
+                "particle": "すこと",
+                "position": "レ"
+            },
+            {
+                "character": "之",
+                "okurigana": "",
+                "particle": "を",
+                "position": ""
+            },
+            {
+                "character": "奈",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "何",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "。",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            }
+        ],
+        "japanese_translation": "之を為すこと奈何。",
+        "japanese": "為之奈何。",
+        "traditional_chinese": "爲之奈何。",
+        "simplified_chinese": "为之奈何。",
+        "segmentation": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "partofspeech": [
+            "VERB",
+            "PRON",
+            "VERB",
+            "PRON",
+            "PUNCT"
+        ],
+        "dependencyarc": [
+            "0010100",
+            "1010000",
+            "1011100",
+            "1000000",
+            "1010000"
+        ],
+        "dependencytype": [
+            "csubj",
+            "obj",
+            "root",
+            "obj",
+            "discourse:sp"
+        ]
+    },
+    {
+        "characters": [
+            {
+                "character": "天",
+                "okurigana": "",
+                "particle": "に",
+                "position": ""
+            },
+            {
+                "character": "有",
+                "okurigana": "",
+                "particle": "り",
+                "position": "レ"
+            },
+            {
+                "character": "時",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "、",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "地",
+                "okurigana": "",
+                "particle": "に",
+                "position": ""
+            },
+            {
+                "character": "有",
+                "okurigana": "",
+                "particle": "り",
+                "position": "レ"
+            },
+            {
+                "character": "財",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "。",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            }
+        ],
+        "japanese_translation": "天に時有り、地に財有り。",
+        "japanese": "天有時、地有財。",
+        "traditional_chinese": "天有時、地有財。",
+        "simplified_chinese": "天有时、地有财。",
+        "segmentation": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "partofspeech": [
+            "NOUN",
+            "VERB",
+            "NOUN",
+            "PUNCT",
+            "NOUN",
+            "VERB",
+            "NOUN",
+            "PUNCT"
+        ],
+        "dependencyarc": [
+            "0010000",
+            "1011100",
+            "1000000",
+            "1000000",
+            "0010000",
+            "1001100",
+            "1010000",
+            "1010000"
+        ],
+        "dependencytype": [
+            "nsubj",
+            "root",
+            "obj",
+            "discourse:sp",
+            "nsubj",
+            "conj",
+            "obj",
+            "discourse:sp"
+        ]
+    },
+    {
+        "characters": [
+            {
+                "character": "攻",
+                "okurigana": "",
+                "particle": "むる",
+                "position": "レ"
+            },
+            {
+                "character": "強",
+                "okurigana": "",
+                "particle": "を",
+                "position": ""
+            },
+            {
+                "character": "以",
+                "okurigana": "",
+                "particle": "てし",
+                "position": "レ"
+            },
+            {
+                "character": "強",
+                "okurigana": "",
+                "particle": "を",
+                "position": ""
+            },
+            {
+                "character": "、",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "離",
+                "okurigana": "す",
+                "particle": "には",
+                "position": "レ"
+            },
+            {
+                "character": "親",
+                "okurigana": "",
+                "particle": "を",
+                "position": ""
+            },
+            {
+                "character": "以",
+                "okurigana": "",
+                "particle": "てし",
+                "position": "レ"
+            },
+            {
+                "character": "親",
+                "okurigana": "",
+                "particle": "を",
+                "position": ""
+            },
+            {
+                "character": "、",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "散",
+                "okurigana": "ずる",
+                "particle": "には",
+                "position": "レ"
+            },
+            {
+                "character": "衆",
+                "okurigana": "",
+                "particle": "を",
+                "position": ""
+            },
+            {
+                "character": "以",
+                "okurigana": "",
+                "particle": "てす",
+                "position": "レ"
+            },
+            {
+                "character": "衆",
+                "okurigana": "",
+                "particle": "を",
+                "position": ""
+            },
+            {
+                "character": "。",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            }
+        ],
+        "japanese_translation": "強を攻むるには強を以てし、親を離すには親を以てし、衆を散ずるには衆を以てす。",
+        "japanese": "攻強以強、離親以親、散衆以衆。",
+        "traditional_chinese": "攻強以強、離親以親、散衆以衆。",
+        "simplified_chinese": "攻强以强、离亲以亲、散众以众。",
+        "segmentation": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "partofspeech": [
+            "VERB",
+            "VERB",
+            "VERB",
+            "VERB",
+            "PUNCT",
+            "VERB",
+            "VERB",
+            "VERB",
+            "VERB",
+            "PUNCT",
+            "VERB",
+            "NOUN",
+            "VERB",
+            "NOUN",
+            "PUNCT"
+        ],
+        "dependencyarc": [
+            "0010100",
+            "1010000",
+            "0011100",
+            "1000000",
+            "1000000",
+            "1010100",
+            "1010000",
+            "1011100",
+            "1000000",
+            "1000000",
+            "1000100",
+            "1010000",
+            "1000100",
+            "1010000",
+            "1010000"
+        ],
+        "dependencytype": [
+            "csubj",
+            "obj",
+            "advcl",
+            "obj",
+            "discourse:sp",
+            "advcl",
+            "obj",
+            "root",
+            "obj",
+            "advmod",
+            "csubj",
+            "obj",
+            "advcl",
+            "obj",
+            "discourse:sp"
+        ]
+    },
+    {
+        "characters": [
+            {
+                "character": "賢",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "臣",
+                "okurigana": "",
+                "particle": "、",
+                "position": ""
+            },
+            {
+                "character": "内",
+                "okurigana": "",
+                "particle": "なれば",
+                "position": ""
+            },
+            {
+                "character": "則",
+                "okurigana": "ち",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "邪",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "臣",
+                "okurigana": "",
+                "particle": "は",
+                "position": ""
+            },
+            {
+                "character": "外",
+                "okurigana": "",
+                "particle": "なり",
+                "position": ""
+            },
+            {
+                "character": "。",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            }
+        ],
+        "japanese_translation": "賢臣、内なれば則ち邪臣は外なり。",
+        "japanese": "賢臣内則邪臣外。",
+        "traditional_chinese": "賢臣內則邪臣外。",
+        "simplified_chinese": "贤臣内则邪臣外。",
+        "segmentation": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "partofspeech": [
+            "VERB",
+            "NOUN",
+            "VERB",
+            "ADV",
+            "NOUN",
+            "NOUN",
+            "VERB",
+            "PUNCT"
+        ],
+        "dependencyarc": [
+            "0010000",
+            "0011000",
+            "1011100",
+            "0010000",
+            "0010000",
+            "0001000",
+            "1001000",
+            "1010000"
+        ],
+        "dependencytype": [
+            "amod",
+            "nsubj",
+            "root",
+            "advmod",
+            "nmod",
+            "nsubj",
+            "parataxis",
+            "discourse:sp"
+        ]
+    },
+    {
+        "characters": [
+            {
+                "character": "兄",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "弟",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "孝",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "慈",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "、",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "欲",
+                "okurigana": "すれ",
+                "particle": "ども",
+                "position": "レ"
+            },
+            {
+                "character": "殺",
+                "okurigana": "",
+                "particle": "さんと",
+                "position": ""
+            },
+            {
+                "character": "不",
+                "okurigana": "",
+                "particle": "Dず",
+                "position": "レ"
+            },
+            {
+                "character": "可",
+                "okurigana": "",
+                "particle": "から",
+                "position": "レ"
+            },
+            {
+                "character": "得",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "。",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            }
+        ],
+        "japanese_translation": "兄弟孝慈、殺さんと欲すれども得可からず。",
+        "japanese": "兄弟孝慈、欲殺不可得。",
+        "traditional_chinese": "兄弟孝慈、欲殺不可得。",
+        "simplified_chinese": "兄弟孝慈、欲杀不可得。",
+        "segmentation": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "partofspeech": [
+            "NOUN",
+            "NOUN",
+            "VERB",
+            "VERB",
+            "PUNCT",
+            "AUX",
+            "VERB",
+            "ADV",
+            "AUX",
+            "VERB",
+            "PUNCT"
+        ],
+        "dependencyarc": [
+            "0010100",
+            "1010000",
+            "1011100",
+            "1000000",
+            "0010000",
+            "0000000",
+            "1001001",
+            "0010000",
+            "0011000",
+            "1011000",
+            "1110000"
+        ],
+        "dependencytype": [
+            "nsubj",
+            "flat",
+            "root",
+            "flat:vv",
+            "discourse:sp",
+            "aux",
+            "csubj",
+            "advmod",
+            "aux",
+            "parataxis",
+            "flat:vv"
+        ]
+    },
+    {
+        "characters": [
+            {
+                "character": "事",
+                "okurigana": "え",
+                "particle": "",
+                "position": "二"
+            },
+            {
+                "character": "大",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "国",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "之",
+                "okurigana": "",
+                "particle": "Dの",
+                "position": ""
+            },
+            {
+                "character": "君",
+                "okurigana": "",
+                "particle": "に",
+                "position": "一"
+            },
+            {
+                "character": "、",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "下",
+                "okurigana": "り",
+                "particle": "",
+                "position": "二"
+            },
+            {
+                "character": "隣",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "国",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "之",
+                "okurigana": "",
+                "particle": "Dの",
+                "position": ""
+            },
+            {
+                "character": "士",
+                "okurigana": "",
+                "particle": "に",
+                "position": "一"
+            },
+            {
+                "character": "、",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "厚",
+                "okurigana": "く",
+                "particle": "し",
+                "position": "二"
+            },
+            {
+                "character": "其",
+                "okurigana": "の",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "幣",
+                "okurigana": "",
+                "particle": "を",
+                "position": "一"
+            },
+            {
+                "character": "、",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "卑",
+                "okurigana": "く",
+                "particle": "せよ",
+                "position": "二"
+            },
+            {
+                "character": "其",
+                "okurigana": "の",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "辞",
+                "okurigana": "",
+                "particle": "を",
+                "position": "一"
+            },
+            {
+                "character": "。",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            }
+        ],
+        "japanese_translation": "大国の君に事え、隣国の士に下り、其の幣を厚くし、其の辞を卑くせよ。",
+        "japanese": "事大国之君、下隣国之士、厚其幣、卑其辞。",
+        "traditional_chinese": "事大國之君、下隣國之士、厚其幣、卑其辭。",
+        "simplified_chinese": "事大国之君、下隣国之士、厚其币、卑其辞。",
+        "segmentation": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "partofspeech": [
+            "VERB",
+            "VERB",
+            "NOUN",
+            "SCONJ",
+            "NOUN",
+            "PUNCT",
+            "VERB",
+            "NOUN",
+            "NOUN",
+            "SCONJ",
+            "NOUN",
+            "PUNCT",
+            "VERB",
+            "PRON",
+            "NOUN",
+            "PUNCT",
+            "VERB",
+            "PRON",
+            "NOUN",
+            "PUNCT"
+        ],
+        "dependencyarc": [
+            "1010100",
+            "0010000",
+            "0011100",
+            "1010000",
+            "1001000",
+            "0110000",
+            "1000000",
+            "0010000",
+            "0011100",
+            "1010000",
+            "0011000",
+            "0010000",
+            "1001111",
+            "0010000",
+            "1001000",
+            "1010000",
+            "1011100",
+            "0010000",
+            "1011000",
+            "1110000"
+        ],
+        "dependencytype": [
+            "root",
+            "amod",
+            "nmod",
+            "case",
+            "obj",
+            "cc",
+            "parataxis",
+            "nmod",
+            "nmod",
+            "case",
+            "obj",
+            "advmod",
+            "conj",
+            "det",
+            "obj",
+            "cc",
+            "conj",
+            "det",
+            "obj",
+            "discourse:sp"
+        ]
+    },
+    {
+        "characters": [
+            {
+                "character": "男",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "女",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "居",
+                "okurigana": "る",
+                "particle": "は",
+                "position": "レ"
+            },
+            {
+                "character": "室",
+                "okurigana": "",
+                "particle": "に",
+                "position": ""
+            },
+            {
+                "character": "、",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "人",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "之",
+                "okurigana": "",
+                "particle": "Dの",
+                "position": ""
+            },
+            {
+                "character": "大",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "倫",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "也",
+                "okurigana": "",
+                "particle": "Dなり",
+                "position": ""
+            },
+            {
+                "character": "。",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            }
+        ],
+        "japanese_translation": "男女室に居るは、人の大倫なり。",
+        "japanese": "男女居室、人之大倫也。",
+        "traditional_chinese": "男女居室、人之大倫也。",
+        "simplified_chinese": "男女居室、人之大伦也。",
+        "segmentation": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "partofspeech": [
+            "NOUN",
+            "NOUN",
+            "VERB",
+            "NOUN",
+            "PUNCT",
+            "NOUN",
+            "SCONJ",
+            "VERB",
+            "NOUN",
+            "PART",
+            "PUNCT"
+        ],
+        "dependencyarc": [
+            "0010100",
+            "1010000",
+            "0011100",
+            "1010000",
+            "0000000",
+            "0000100",
+            "1010000",
+            "0000000",
+            "1011100",
+            "1000000",
+            "1010000"
+        ],
+        "dependencytype": [
+            "nsubj",
+            "flat",
+            "csubj",
+            "obj",
+            "advmod",
+            "nmod",
+            "case",
+            "amod",
+            "root",
+            "discourse:sp",
+            "discourse:sp"
+        ]
+    },
+    {
+        "characters": [
+            {
+                "character": "己",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "五",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "而",
+                "okurigana": "",
+                "particle": "DBにして",
+                "position": ""
+            },
+            {
+                "character": "敵",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "一",
+                "okurigana": "",
+                "particle": "ならば",
+                "position": ""
+            },
+            {
+                "character": "、",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "則",
+                "okurigana": "",
+                "particle": "ち",
+                "position": ""
+            },
+            {
+                "character": "三",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "術",
+                "okurigana": "",
+                "particle": "を",
+                "position": ""
+            },
+            {
+                "character": "為",
+                "okurigana": "し",
+                "particle": "",
+                "position": "レ"
+            },
+            {
+                "character": "正",
+                "okurigana": "",
+                "particle": "と",
+                "position": ""
+            },
+            {
+                "character": "、",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "二",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "術",
+                "okurigana": "",
+                "particle": "を",
+                "position": ""
+            },
+            {
+                "character": "為",
+                "okurigana": "せ",
+                "particle": "",
+                "position": "レ"
+            },
+            {
+                "character": "奇",
+                "okurigana": "",
+                "particle": "と",
+                "position": ""
+            },
+            {
+                "character": "。",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            }
+        ],
+        "japanese_translation": "己五にして敵一ならば、則ち三術を正と為し、二術を奇と為せ。",
+        "japanese": "己五而敵一、則三術為正、二術為奇。",
+        "traditional_chinese": "己五而敵一、則三術爲正、二術爲奇。",
+        "simplified_chinese": "己五而敌一、则三术为正、二术为奇。",
+        "segmentation": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "partofspeech": [
+            "PRON",
+            "NUM",
+            "CCONJ",
+            "VERB",
+            "NUM",
+            "PUNCT",
+            "ADV",
+            "NUM",
+            "NOUN",
+            "AUX",
+            "NOUN",
+            "PUNCT",
+            "NUM",
+            "NOUN",
+            "AUX",
+            "NOUN",
+            "PUNCT"
+        ],
+        "dependencyarc": [
+            "0010000",
+            "0011100",
+            "0010000",
+            "1011100",
+            "1010000",
+            "0000000",
+            "0000000",
+            "0010000",
+            "0001000",
+            "0000000",
+            "1011100",
+            "1000000",
+            "0010000",
+            "1001000",
+            "0010000",
+            "1001000",
+            "1010000"
+        ],
+        "dependencytype": [
+            "nsubj",
+            "nummod",
+            "cc",
+            "conj",
+            "obj",
+            "nsubj:outer",
+            "amod",
+            "nummod",
+            "nsubj",
+            "cop",
+            "root",
+            "case",
+            "nummod",
+            "nsubj",
+            "cop",
+            "conj",
+            "discourse:sp"
+        ]
+    },
+    {
+        "characters": [
+            {
+                "character": "春",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "日",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "凝",
+                "okurigana": "",
+                "particle": "ら",
+                "position": "レ"
+            },
+            {
+                "character": "粧",
+                "okurigana": "い",
+                "particle": "を",
+                "position": ""
+            },
+            {
+                "character": "上",
+                "okurigana": "る",
+                "particle": "",
+                "position": "二"
+            },
+            {
+                "character": "翠",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "楼",
+                "okurigana": "",
+                "particle": "に",
+                "position": "一"
+            }
+        ],
+        "japanese_translation": "春日粧いを凝らして翠楼に上る",
+        "japanese": "春日凝粧上翠楼",
+        "traditional_chinese": "春日凝妝上翠樓",
+        "simplified_chinese": "春日凝妆上翠楼",
+        "segmentation": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "partofspeech": [
+            "NOUN",
+            "NOUN",
+            "VERB",
+            "VERB",
+            "VERB",
+            "NOUN",
+            "NOUN"
+        ],
+        "dependencyarc": [
+            "0010000",
+            "0011000",
+            "1011100",
+            "1000000",
+            "1010100",
+            "0010000",
+            "1011000"
+        ],
+        "dependencytype": [
+            "nmod",
+            "obl:tmod",
+            "root",
+            "obj",
+            "parataxis",
+            "nmod",
+            "obj"
+        ]
+    },
+    {
+        "characters": [
+            {
+                "character": "戊",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "則",
+                "okurigana": "",
+                "particle": "ち",
+                "position": ""
+            },
+            {
+                "character": "殺",
+                "okurigana": "し",
+                "particle": "",
+                "position": "二"
+            },
+            {
+                "character": "尚",
+                "okurigana": "",
+                "particle": "・",
+                "position": ""
+            },
+            {
+                "character": "夷",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "吾",
+                "okurigana": "",
+                "particle": "を",
+                "position": "一"
+            },
+            {
+                "character": "、",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "起",
+                "okurigana": "し",
+                "particle": "",
+                "position": "レ"
+            },
+            {
+                "character": "兵",
+                "okurigana": "",
+                "particle": "を",
+                "position": ""
+            },
+            {
+                "character": "与",
+                "okurigana": "",
+                "particle": "に",
+                "position": "レ"
+            },
+            {
+                "character": "呉",
+                "okurigana": "",
+                "particle": "と",
+                "position": ""
+            },
+            {
+                "character": "西",
+                "okurigana": "",
+                "particle": "して",
+                "position": ""
+            },
+            {
+                "character": "攻",
+                "okurigana": "め",
+                "particle": "",
+                "position": "レ"
+            },
+            {
+                "character": "梁",
+                "okurigana": "",
+                "particle": "を",
+                "position": ""
+            },
+            {
+                "character": "、",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "破",
+                "okurigana": "り",
+                "particle": "",
+                "position": "二"
+            },
+            {
+                "character": "棘",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "壁",
+                "okurigana": "",
+                "particle": "を",
+                "position": "一"
+            },
+            {
+                "character": "、",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "至",
+                "okurigana": "る",
+                "particle": "",
+                "position": "二"
+            },
+            {
+                "character": "昌",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "邑",
+                "okurigana": "",
+                "particle": "の",
+                "position": ""
+            },
+            {
+                "character": "南",
+                "okurigana": "",
+                "particle": "に",
+                "position": "一"
+            },
+            {
+                "character": "。",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            }
+        ],
+        "japanese_translation": "戊則ち尚・夷吾を殺し、兵を起し呉と与に西して梁を攻め、棘壁を破り、昌邑の南に至る。",
+        "japanese": "戊則殺尚夷吾、起兵与呉西攻梁、破棘壁、至昌邑南。",
+        "traditional_chinese": "戊則殺尚夷吾、起兵與吳西攻梁、破棘壁、至昌邑南。",
+        "simplified_chinese": "戊则杀尚夷吾、起兵与吴西攻梁、破棘壁、至昌邑南。",
+        "segmentation": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "I",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "I",
+            "B",
+            "B",
+            "B",
+            "I",
+            "B",
+            "B"
+        ],
+        "partofspeech": [
+            "NUM",
+            "ADV",
+            "VERB",
+            "PROPN",
+            "PROPN",
+            "continue",
+            "PUNCT",
+            "VERB",
+            "NOUN",
+            "ADP",
+            "PROPN",
+            "NOUN",
+            "VERB",
+            "PROPN",
+            "PUNCT",
+            "VERB",
+            "PROPN",
+            "continue",
+            "PUNCT",
+            "VERB",
+            "PROPN",
+            "continue",
+            "NOUN",
+            "PUNCT"
+        ],
+        "dependencyarc": [
+            "0010000",
+            "0000000",
+            "1011100",
+            "1000100",
+            "1010000",
+            "continue",
+            "1000000",
+            "1000101",
+            "1000000",
+            "0010000",
+            "0011000",
+            "0000000",
+            "1011101",
+            "1000000",
+            "1010000",
+            "1000100",
+            "1100000",
+            "continue",
+            "1110000",
+            "1110000",
+            "0010000",
+            "continue",
+            "1011000",
+            "1010000"
+        ],
+        "dependencytype": [
+            "nsubj",
+            "advmod",
+            "root",
+            "obj",
+            "flat",
+            "continue",
+            "obj",
+            "conj",
+            "obj",
+            "case",
+            "obl:lmod",
+            "obl:lmod",
+            "parataxis",
+            "obj",
+            "discourse:sp",
+            "conj",
+            "obj",
+            "continue",
+            "discourse:sp",
+            "parataxis",
+            "nmod",
+            "continue",
+            "obj",
+            "parataxis"
+        ]
+    },
+    {
+        "characters": [
+            {
+                "character": "哭",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "声",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "直",
+                "okurigana": "ち",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "上",
+                "okurigana": "",
+                "particle": "りて",
+                "position": ""
+            },
+            {
+                "character": "干",
+                "okurigana": "",
+                "particle": "す",
+                "position": "二"
+            },
+            {
+                "character": "雲",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "霄",
+                "okurigana": "",
+                "particle": "を",
+                "position": "一"
+            }
+        ],
+        "japanese_translation": "哭声直ちに上りて雲霄を干す",
+        "japanese": "哭声直上干雲霄",
+        "traditional_chinese": "哭聲直上干雲霄",
+        "simplified_chinese": "哭声直上干云霄",
+        "segmentation": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "partofspeech": [
+            "VERB",
+            "NOUN",
+            "ADV",
+            "VERB",
+            "VERB",
+            "NOUN",
+            "NOUN"
+        ],
+        "dependencyarc": [
+            "0010000",
+            "0011000",
+            "0000000",
+            "1011100",
+            "1010100",
+            "1010100",
+            "1010000"
+        ],
+        "dependencytype": [
+            "amod",
+            "nsubj",
+            "advmod",
+            "root",
+            "parataxis",
+            "obj",
+            "flat"
+        ]
+    },
+    {
+        "characters": [
+            {
+                "character": "軍",
+                "okurigana": "",
+                "particle": "は",
+                "position": ""
+            },
+            {
+                "character": "不",
+                "okurigana": "",
+                "particle": "Dず",
+                "position": "レ"
+            },
+            {
+                "character": "可",
+                "okurigana": "",
+                "particle": "から",
+                "position": "二"
+            },
+            {
+                "character": "従",
+                "okurigana": "",
+                "particle": "Dより",
+                "position": "レ"
+            },
+            {
+                "character": "中",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "御",
+                "okurigana": "",
+                "particle": "す",
+                "position": "一"
+            },
+            {
+                "character": "。",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            }
+        ],
+        "japanese_translation": "軍は中より御す可からず。",
+        "japanese": "軍不可従中御。",
+        "traditional_chinese": "軍不可從中御。",
+        "simplified_chinese": "军不可从中御。",
+        "segmentation": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "partofspeech": [
+            "NOUN",
+            "ADV",
+            "AUX",
+            "ADP",
+            "NOUN",
+            "VERB",
+            "PUNCT"
+        ],
+        "dependencyarc": [
+            "0010000",
+            "0010000",
+            "0001000",
+            "0010000",
+            "0001000",
+            "1011100",
+            "1010000"
+        ],
+        "dependencytype": [
+            "nsubj",
+            "advmod",
+            "aux",
+            "case",
+            "obl:lmod",
+            "root",
+            "discourse:sp"
+        ]
+    },
+    {
+        "characters": [
+            {
+                "character": "子",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "曰",
+                "okurigana": "",
+                "particle": "く",
+                "position": ""
+            },
+            {
+                "character": "、",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "未",
+                "okurigana": "",
+                "particle": "だSざKる",
+                "position": "二"
+            },
+            {
+                "character": "之",
+                "okurigana": "",
+                "particle": "を",
+                "position": ""
+            },
+            {
+                "character": "思",
+                "okurigana": "わ",
+                "particle": "",
+                "position": "一"
+            },
+            {
+                "character": "也",
+                "okurigana": "",
+                "particle": "Dなり",
+                "position": ""
+            },
+            {
+                "character": "。",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            }
+        ],
+        "japanese_translation": "子曰く、未だ之を思わざるなり。",
+        "japanese": "子曰、未之思也。",
+        "traditional_chinese": "子曰、未之思也。",
+        "simplified_chinese": "子曰、未之思也。",
+        "segmentation": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "partofspeech": [
+            "NOUN",
+            "VERB",
+            "PUNCT",
+            "ADV",
+            "PRON",
+            "VERB",
+            "PART",
+            "PUNCT"
+        ],
+        "dependencyarc": [
+            "0010000",
+            "1011100",
+            "0010000",
+            "0000000",
+            "0000000",
+            "1001000",
+            "1000000",
+            "1010000"
+        ],
+        "dependencytype": [
+            "nsubj",
+            "root",
+            "discourse:sp",
+            "advmod",
+            "obj",
+            "ccomp",
+            "discourse:sp",
+            "discourse:sp"
+        ]
+    },
+    {
+        "characters": [
+            {
+                "character": "右",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "伝",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "之",
+                "okurigana": "",
+                "particle": "Dの",
+                "position": ""
+            },
+            {
+                "character": "六",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "章",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "、",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "釈",
+                "okurigana": "",
+                "particle": "す",
+                "position": "レ"
+            },
+            {
+                "character": "誠",
+                "okurigana": "する",
+                "particle": "に",
+                "position": "レ"
+            },
+            {
+                "character": "意",
+                "okurigana": "",
+                "particle": "を",
+                "position": ""
+            },
+            {
+                "character": "。",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            }
+        ],
+        "japanese_translation": "右伝の六章、意を誠にするを釈す。",
+        "japanese": "右伝之六章、釈誠意。",
+        "traditional_chinese": "右傳之六章、釋誠意。",
+        "simplified_chinese": "右传之六章、释诚意。",
+        "segmentation": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "partofspeech": [
+            "NOUN",
+            "NOUN",
+            "SCONJ",
+            "NUM",
+            "NOUN",
+            "PUNCT",
+            "VERB",
+            "VERB",
+            "NOUN",
+            "PUNCT"
+        ],
+        "dependencyarc": [
+            "0010000",
+            "0011100",
+            "1010000",
+            "0000000",
+            "0011000",
+            "0000000",
+            "1011100",
+            "0010000",
+            "1001000",
+            "1010000"
+        ],
+        "dependencytype": [
+            "nmod",
+            "nsubj",
+            "case",
+            "nummod",
+            "obj",
+            "nsubj",
+            "root",
+            "amod",
+            "obj",
+            "discourse:sp"
+        ]
+    },
+    {
+        "characters": [
+            {
+                "character": "子",
+                "okurigana": "",
+                "particle": "、",
+                "position": ""
+            },
+            {
+                "character": "畏",
+                "okurigana": "",
+                "particle": "す",
+                "position": "レ"
+            },
+            {
+                "character": "於",
+                "okurigana": "",
+                "particle": "DBに",
+                "position": "レ"
+            },
+            {
+                "character": "匡",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "。",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            }
+        ],
+        "japanese_translation": "子、匡に畏す。",
+        "japanese": "子畏於匡。",
+        "traditional_chinese": "子畏於匡。",
+        "simplified_chinese": "子畏于匡。",
+        "segmentation": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "partofspeech": [
+            "NOUN",
+            "VERB",
+            "ADP",
+            "PROPN",
+            "PUNCT"
+        ],
+        "dependencyarc": [
+            "0010000",
+            "1011100",
+            "0010000",
+            "1001000",
+            "1010000"
+        ],
+        "dependencytype": [
+            "nsubj",
+            "root",
+            "case",
+            "obl:lmod",
+            "discourse:sp"
+        ]
+    },
+    {
+        "characters": [
+            {
+                "character": "以",
+                "okurigana": "",
+                "particle": "て",
+                "position": "レ"
+            },
+            {
+                "character": "故",
+                "okurigana": "",
+                "particle": "を",
+                "position": ""
+            },
+            {
+                "character": "不",
+                "okurigana": "",
+                "particle": "Dず",
+                "position": "レ"
+            },
+            {
+                "character": "論",
+                "okurigana": "ぜ",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "。",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            }
+        ],
+        "japanese_translation": "故を以て論ぜず。",
+        "japanese": "以故不論。",
+        "traditional_chinese": "以故不論。",
+        "simplified_chinese": "以故不论。",
+        "segmentation": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "partofspeech": [
+            "VERB",
+            "NOUN",
+            "ADV",
+            "VERB",
+            "PUNCT"
+        ],
+        "dependencyarc": [
+            "0010000",
+            "0000000",
+            "0000000",
+            "1011100",
+            "1010000"
+        ],
+        "dependencytype": [
+            "advcl",
+            "obl",
+            "advmod",
+            "root",
+            "parataxis"
+        ]
+    },
+    {
+        "characters": [
+            {
+                "character": "巻",
+                "okurigana": "き",
+                "particle": "",
+                "position": "レ"
+            },
+            {
+                "character": "地",
+                "okurigana": "",
+                "particle": "を",
+                "position": ""
+            },
+            {
+                "character": "風",
+                "okurigana": "",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "来",
+                "okurigana": "",
+                "particle": "って",
+                "position": ""
+            },
+            {
+                "character": "忽",
+                "okurigana": "ち",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "吹",
+                "okurigana": "き",
+                "particle": "",
+                "position": ""
+            },
+            {
+                "character": "散",
+                "okurigana": "",
+                "particle": "ず",
+                "position": ""
+            }
+        ],
+        "japanese_translation": "地を巻き風来って忽ち吹き散ず",
+        "japanese": "巻地風来忽吹散",
+        "traditional_chinese": "卷地風來忽吹散",
+        "simplified_chinese": "卷地风来忽吹散",
+        "segmentation": [
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B",
+            "B"
+        ],
+        "partofspeech": [
+            "VERB",
+            "NOUN",
+            "NOUN",
+            "VERB",
+            "ADV",
+            "VERB",
+            "VERB"
+        ],
+        "dependencyarc": [
+            "0010100",
+            "1010000",
+            "0000000",
+            "1011100",
+            "0010000",
+            "1011100",
+            "1010000"
+        ],
+        "dependencytype": [
+            "advcl",
+            "obj",
+            "nsubj",
+            "root",
+            "advmod",
+            "parataxis",
+            "flat:vv"
+        ]
+    }
+]
