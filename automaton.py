@@ -34,6 +34,7 @@ class KanbunAutomaton:
             "二": (2, 1),
             "三": (2, 2),
             "四": (2, 3),
+            "五": (2, 4),
             "上": (3, 0),
             "中": (3, 1),
             "下": (3, 2),
@@ -87,7 +88,7 @@ class KanbunAutomaton:
                         visited.add(config)
                         queue.append(("q1", current_index + 1, new_stack))
                 
-                if current_state == "q0" and char in {"乙", "中", "下", "二", "三", "四"}:
+                if current_state == "q0" and char in {"乙", "中", "下", "二", "三", "四", "五"}:
                     new_stack = current_stack.copy()
                     new_stack.append(char)
                     config = ("q0", current_index + 1, tuple(new_stack))
@@ -130,7 +131,7 @@ class KanbunAutomaton:
                     visited.add(config)
                     queue.append(("q0", current_index, new_stack))
             
-            if current_state == "q1" and current_stack[-1] in {"一", "二", "三", "四", "上", "中", "下", "甲", "乙"}:
+            if current_state == "q1" and current_stack[-1] in {"一", "二", "三", "四", "五", "上", "中", "下", "甲", "乙"}:
                 new_stack = current_stack.copy()
                 config = ("q0", current_index, tuple(new_stack))
                 if config not in visited:
@@ -145,8 +146,8 @@ class KanbunAutomaton:
                     visited.add(config)
                     queue.append(("q2", current_index, new_stack))
             
-            if current_state == "q2" and current_stack[-1] in {"一", "二", "三", "四", "上", "中", "下", "甲", "乙"} and current_stack[-2] in self.words and\
-            current_stack[-3] in {"一", "二", "三", "四", "上", "中", "下", "甲", "乙"} and\
+            if current_state == "q2" and current_stack[-1] in {"一", "二", "三", "四", "五", "上", "中", "下", "甲", "乙"} and current_stack[-2] in self.words and\
+            current_stack[-3] in {"一", "二", "三", "四", "五", "上", "中", "下", "甲", "乙"} and\
             ((self.operation_mark[current_stack[-3]][1] - self.operation_mark[current_stack[-1]][1] == 1 and self.operation_mark[current_stack[-3]][0] == self.operation_mark[current_stack[-1]][0]) or\
             (current_stack[-3] == "下" and current_stack[-1] == "上")):
                 new_stack = current_stack.copy()
@@ -157,8 +158,8 @@ class KanbunAutomaton:
                     visited.add(config)
                     queue.append(("q2", current_index, new_stack))
             
-            if current_state == "q2" and current_stack[-1] in {"一", "二", "三", "四", "上", "中", "下", "甲", "乙"} and current_stack[-2] in self.words and\
-            current_stack[-3] in {"一", "二", "三", "四", "上", "中", "下", "甲", "乙"} and\
+            if current_state == "q2" and current_stack[-1] in {"一", "二", "三", "四", "五", "上", "中", "下", "甲", "乙"} and current_stack[-2] in self.words and\
+            current_stack[-3] in {"一", "二", "三", "四", "五", "上", "中", "下", "甲", "乙"} and\
             self.operation_mark[current_stack[-3]][0] != self.operation_mark[current_stack[-1]][0]:
                 new_stack = current_stack.copy()
                 new_stack.pop()
@@ -168,7 +169,7 @@ class KanbunAutomaton:
                     visited.add(config)
                     queue.append(("q0", current_index, new_stack))
             
-            if current_state == "q2" and current_stack[-1] in {"一", "二", "三", "四", "上", "中", "下", "甲", "乙"} and current_stack[-2] in self.words and current_stack[-3] == "レ":
+            if current_state == "q2" and current_stack[-1] in {"一", "二", "三", "四", "五", "上", "中", "下", "甲", "乙"} and current_stack[-2] in self.words and current_stack[-3] == "レ":
                 new_stack = current_stack.copy()
                 new_stack.pop()
                 new_stack.pop()
@@ -177,7 +178,7 @@ class KanbunAutomaton:
                     visited.add(config)
                     queue.append(("q1", current_index, new_stack))
             
-            if current_state == "q2" and current_stack[-1] in {"一", "二", "三", "四", "上", "中", "下", "甲", "乙"} and current_stack[-2] in self.words and current_stack[-3] == "Z":
+            if current_state == "q2" and current_stack[-1] in {"一", "二", "三", "四", "五", "上", "中", "下", "甲", "乙"} and current_stack[-2] in self.words and current_stack[-3] == "Z":
                 new_stack = current_stack.copy()
                 new_stack.pop()
                 new_stack.pop()
@@ -232,7 +233,7 @@ class KanbunAutomaton:
                         visited.add(config)
                         queue.append(("q1", current_index + 1, new_stack, new_output))
                 
-                if current_state == "q0" and char in {"乙", "中", "下", "二", "三", "四"}:
+                if current_state == "q0" and char in {"乙", "中", "下", "二", "三", "四", "五"}:
                     new_stack = current_stack.copy()
                     new_stack.append(char)
                     config = ("q0", current_index + 1, tuple(new_stack))
@@ -276,7 +277,7 @@ class KanbunAutomaton:
                     visited.add(config)
                     queue.append(("q0", current_index, new_stack, current_output))
             
-            if current_state == "q1" and current_stack[-1] in {"一", "二", "三", "四", "上", "中", "下", "甲", "乙"}:
+            if current_state == "q1" and current_stack[-1] in {"一", "二", "三", "四", "五", "上", "中", "下", "甲", "乙"}:
                 new_stack = current_stack.copy()
                 config = ("q0", current_index, tuple(new_stack))
                 if config not in visited:
@@ -291,8 +292,8 @@ class KanbunAutomaton:
                     visited.add(config)
                     queue.append(("q2", current_index, new_stack, current_output))
             
-            if current_state == "q2" and current_stack[-1] in {"一", "二", "三", "四", "上", "中", "下", "甲", "乙"} and current_stack[-2] in self.words and\
-            current_stack[-3] in {"一", "二", "三", "四", "上", "中", "下", "甲", "乙"} and\
+            if current_state == "q2" and current_stack[-1] in {"一", "二", "三", "四", "五", "上", "中", "下", "甲", "乙"} and current_stack[-2] in self.words and\
+            current_stack[-3] in {"一", "二", "三", "四", "五", "上", "中", "下", "甲", "乙"} and\
             ((self.operation_mark[current_stack[-3]][1] - self.operation_mark[current_stack[-1]][1] == 1 and self.operation_mark[current_stack[-3]][0] == self.operation_mark[current_stack[-1]][0]) or\
             (current_stack[-3] == "下" and current_stack[-1] == "上")):
                 new_stack = current_stack.copy()
@@ -304,8 +305,8 @@ class KanbunAutomaton:
                     visited.add(config)
                     queue.append(("q2", current_index, new_stack, new_output))
             
-            if current_state == "q2" and current_stack[-1] in {"一", "二", "三", "四", "上", "中", "下", "甲", "乙"} and current_stack[-2] in self.words and\
-            current_stack[-3] in {"一", "二", "三", "四", "上", "中", "下", "甲", "乙"} and\
+            if current_state == "q2" and current_stack[-1] in {"一", "二", "三", "四", "五", "上", "中", "下", "甲", "乙"} and current_stack[-2] in self.words and\
+            current_stack[-3] in {"一", "二", "三", "四", "五", "上", "中", "下", "甲", "乙"} and\
             self.operation_mark[current_stack[-3]][0] != self.operation_mark[current_stack[-1]][0]:
                 new_stack = current_stack.copy()
                 new_output = current_output.copy()
@@ -316,7 +317,7 @@ class KanbunAutomaton:
                     visited.add(config)
                     queue.append(("q0", current_index, new_stack, new_output))
             
-            if current_state == "q2" and current_stack[-1] in {"一", "二", "三", "四", "上", "中", "下", "甲", "乙"} and current_stack[-2] in self.words and current_stack[-3] == "レ":
+            if current_state == "q2" and current_stack[-1] in {"一", "二", "三", "四", "五", "上", "中", "下", "甲", "乙"} and current_stack[-2] in self.words and current_stack[-3] == "レ":
                 new_stack = current_stack.copy()
                 new_output = current_output.copy()
                 new_stack.pop()
@@ -326,7 +327,7 @@ class KanbunAutomaton:
                     visited.add(config)
                     queue.append(("q1", current_index, new_stack, new_output))
             
-            if current_state == "q2" and current_stack[-1] in {"一", "二", "三", "四", "上", "中", "下", "甲", "乙"} and current_stack[-2] in self.words and current_stack[-3] == "Z":
+            if current_state == "q2" and current_stack[-1] in {"一", "二", "三", "四", "五", "上", "中", "下", "甲", "乙"} and current_stack[-2] in self.words and current_stack[-3] == "Z":
                 new_stack = current_stack.copy()
                 new_output = current_output.copy()
                 new_stack.pop()

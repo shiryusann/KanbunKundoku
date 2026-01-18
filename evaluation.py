@@ -1,3 +1,4 @@
+import evaluate
 from typing import List, Dict
 from bert_score import score
 from sacrebleu.metrics import BLEU, CHRF
@@ -54,6 +55,10 @@ def compute_ribes_score(translated_sentences:List[str], original_sentences:List[
         hypotheses.append(tokenizer.tokenize(i))
         references.append([tokenizer.tokenize(j)])
     return corpus_ribes(references, hypotheses)
+
+def compute_ter_score(original_sentences:List[str], translated_sentences:List[str]):
+    ter = evaluate.load("ter")
+    return ter.compute(predictions = [" ".join(s) for s in translated_sentences], references = [[" ".join(s)] for s in original_sentences], case_sensitive = False)
 
 def compute_kendalltau_score(original_marks:List[Dict], valid_marks:List[Dict]):
     tau_value = 0
