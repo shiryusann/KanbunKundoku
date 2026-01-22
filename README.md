@@ -47,6 +47,14 @@ In this repository, we open source 4 datasets:
 - `annotated_poem_two_types` The simpler annotated dataset originally created by Wang et al. (2023)
 
 ## Code
+This repository contains the following code file:
+- `example.ipynb` is an example of running the dataset `annotated_poem` on the pretrained model `roberta-classical-chinese-base-char`.
+- `automaton.py` contains the pushdown automaton and helper functions we used for these experiments.
+- `data_process.py` is the code we used for loading the datasets.
+- `evaluation.py` has encapsulated evaluation metrics used in our experiments.
+- `model.py` has pytorch model frameworks we constructed.
+- `pos_tag.py` contains the prompt template we used to get the POS tags of classical Chinese sentences.
+- `translation.py` is used to transform annotated characters into Japanese sentences.
 
 ## Reference
 You can cite our work using the following Bibtex.
